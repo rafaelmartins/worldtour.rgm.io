@@ -25,6 +25,6 @@ Builds a KML with the airports elegible for the World Tour.
 Builds a KML with the airports and routes for the World Tour, from
 `../data/route.txt`.
 
-## `scripts/`
+## `utils/`
 
 Helper library with most of the actual implementation.
