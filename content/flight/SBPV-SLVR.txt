@@ -1,0 +1,31 @@
+TITLE: Flight 81: Governador Jorge Teixeira de Oliveira (SBPV) → Viru Viru (SLVR)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0081
+- **Departure**: Governador Jorge Teixeira de Oliveira (SBPV)
+- **Arrival**: Viru Viru (SLVR)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

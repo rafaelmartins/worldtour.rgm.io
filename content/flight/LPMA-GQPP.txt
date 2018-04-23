@@ -1,0 +1,31 @@
+TITLE: Flight 12: Madeira (LPMA) → Nouadhibou (GQPP)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0012
+- **Departure**: Madeira (LPMA)
+- **Arrival**: Nouadhibou (GQPP)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

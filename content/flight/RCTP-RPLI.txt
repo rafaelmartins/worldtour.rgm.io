@@ -1,0 +1,31 @@
+TITLE: Flight 54: Taiwan Taoyuan (RCTP) → Laoag (RPLI)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0054
+- **Departure**: Taiwan Taoyuan (RCTP)
+- **Arrival**: Laoag (RPLI)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

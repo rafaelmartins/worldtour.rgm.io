@@ -1,0 +1,31 @@
+TITLE: Flight 29: Eleftherios Venizelos (LGAV) → Beirut Rafic Hariri (OLBA)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0029
+- **Departure**: Eleftherios Venizelos (LGAV)
+- **Arrival**: Beirut Rafic Hariri (OLBA)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

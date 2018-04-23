@@ -1,0 +1,31 @@
+TITLE: Flight 19: Ostrava Leos Janáček (LKMT) → Frankfurt am Main (EDDF)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0019
+- **Departure**: Ostrava Leos Janáček (LKMT)
+- **Arrival**: Frankfurt am Main (EDDF)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

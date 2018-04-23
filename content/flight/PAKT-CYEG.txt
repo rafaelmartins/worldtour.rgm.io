@@ -1,0 +1,31 @@
+TITLE: Flight 68: Ketchikan (PAKT) → Edmonton (CYEG)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0068
+- **Departure**: Ketchikan (PAKT)
+- **Arrival**: Edmonton (CYEG)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

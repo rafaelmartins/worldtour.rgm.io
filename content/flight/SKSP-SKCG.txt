@@ -1,0 +1,31 @@
+TITLE: Flight 78: Gustavo Rojas Pinilla (SKSP) → Rafael Nuñez (SKCG)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0078
+- **Departure**: Gustavo Rojas Pinilla (SKSP)
+- **Arrival**: Rafael Nuñez (SKCG)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

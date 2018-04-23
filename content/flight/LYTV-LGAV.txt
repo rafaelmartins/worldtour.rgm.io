@@ -1,0 +1,31 @@
+TITLE: Flight 28: Tivat (LYTV) → Eleftherios Venizelos (LGAV)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0028
+- **Departure**: Tivat (LYTV)
+- **Arrival**: Eleftherios Venizelos (LGAV)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

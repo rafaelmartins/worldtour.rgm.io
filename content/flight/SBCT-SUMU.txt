@@ -1,0 +1,31 @@
+TITLE: Flight 87: Afonso Pena (SBCT) → Carrasco /General C L Berisso (SUMU)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0087
+- **Departure**: Afonso Pena (SBCT)
+- **Arrival**: Carrasco /General C L Berisso (SUMU)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

@@ -1,0 +1,25 @@
+[global]
+AUTHOR_NAME = Rafael G. Martins
+AUTHOR_EMAIL = rafael@rafaelmartins.eng.br
+SITE_TITLE = World Tour
+SITE_TAGLINE = Having fun around the world, with X-Plane and Airbus A319
+BASE_DOMAIN = https://worldtour.rgm.io
+
+;LAST_FLIGHT =  () →  ()
+;LAST_FLIGHT_SLUG = -
+
+[settings]
+locale = en_US.utf8
+post_prefix = flight
+pagination_prefix = flights/page
+index_prefix = flights
+posts_per_page = 4
+
+[posts]
+
+[pages]
+index
+
+[copy]
+assets/custom.css
+assets/custom.js

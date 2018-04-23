@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ SITE_TAGLINE }}">
+    <title>{{ SITE_TITLE }}{% block entry %} - {% ifdef TITLE %}{{ TITLE }}{% else %}{{ SITE_TAGLINE }}{% endif %}{% endblock %}{% block listing_once %} - Flights{% endblock %}</title>
+    <link href="//cdn.jsdelivr.net/bootswatch/3.3.2/simplex/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="//cdn.jsdelivr.net/fontawesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="{{ BASE_URL }}/assets/custom.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
+      <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="{{ BASE_URL }}/atom.xml" rel="alternate" type="application/atom+xml" title="{{ SITE_TITLE }}" />
+  </head>
+  <body>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{{ BASE_URL }}/">{{ SITE_TITLE }}</a>
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+            <span class="sr-only">Toggle Navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li{% if MAKE_TYPE == "page" %}{% if FILENAME == "index" %} class="active"{% endif %}{% endif %}><a href="{{ BASE_URL }}/">Home</a></li>
+            <li{% if MAKE_TYPE == "post" %} class="active"{% endif %}><a href="{{ BASE_URL }}/flights/">Flights</a></li>
+            <li><a href="https://www.youtube.com/channel/UCgjrYdwTH-kNE_Fj7vBfJMA">YouTube Channel</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9">
+          {% block listing %}
+          <article>
+            <h3><a href="{{ BASE_URL }}/flight/{{ FILENAME }}/">{{ TITLE }}</a></h3>
+            {{ CONTENT }}
+            <div class="metadata well well-sm">
+              Author: <a href="mailto:{{ AUTHOR_EMAIL }}">{{ AUTHOR_NAME }}</a><br />
+              {% ifdef DATE_FORMATTED %}Published on: {{ DATE_FORMATTED }}<br />{% endif %}
+              <a href="{{ BASE_URL }}/flight/{{ FILENAME }}/">Permalink</a>
+            </div>
+          </article>
+          {% endblock %}
+          {% block listing_once %}
+          <ul class="pager">
+            {% ifdef PREVIOUS_PAGE %}
+            <li class="previous">
+              <a href="{{ BASE_URL }}/flights/page/{{ PREVIOUS_PAGE }}/">&larr; Newer</a>
+            </li>
+            {% endif %}
+            {% ifdef NEXT_PAGE %}
+            <li class="next">
+              <a href="{{ BASE_URL }}/flights/page/{{ NEXT_PAGE }}/">Older &rarr;</a>
+            </li>
+            {% endif %}
+          </ul>
+          {% endblock %}
+          {% block entry %}
+          <article>
+            <h3>{{ TITLE }}</h3>
+            {{ CONTENT }}
+            {% ifdef IS_POST %}
+            <div class="metadata well well-sm">
+              Author: <a href="mailto:{{ AUTHOR_EMAIL }}">{{ AUTHOR_NAME }}</a><br />
+              {% ifdef DATE_FORMATTED %}Published on: {{ DATE_FORMATTED }}<br />{% endif %}
+              <a href="{{ BASE_URL }}/flight/{{ FILENAME }}/">Permalink</a>
+            </div>
+            {% endif %}
+          </article>
+          {% endblock %}
+        </div>
+        {% ifdef LAST_FLIGHT %}
+        <div class="col-md-3 sidebar">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">Last Flight</h4>
+            </div>
+            <div class="list-group">
+              <a class="list-group-item" href="{{ BASE_URL }}/flight/{{ LAST_FLIGHT_SLUG }}/">
+                {{ LAST_FLIGHT }}
+              </a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        <div class="col-md-3 sidebar">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">About</h4>
+            </div>
+            <div class="list-group">
+              <div class="list-group-item">
+                <p>
+                  This website is a log book for my flight simulation world tour.
+                </p>
+                <p>
+                  The tour starts and ends in <code>Washington Dulles (KIAD)</code>, and the route was
+                  created/validated with
+                  <a href="https://github.com/rafaelmartins/worldtour.rgm.io/tree/master/scripts">
+                    some scripts
+                  </a>, that checked if the aircraft is supported by the runways and that the flight
+                  distance (<code>DCT</code> for this calculation) is longer than <code>300NM</code>
+                  and shorter than <code>2100NM</code>. Also, only international airports were included.
+                </p>
+                <p>
+                  All the flights are supposed to happen on <a href="https://www.vatsim.net/">VATSIM</a>,
+                  and to be streamed on my <a href="https://www.youtube.com/channel/UCgjrYdwTH-kNE_Fj7vBfJMA">
+                  YouTube Channel</a>.
+                </p>
+                <p>
+                  The tour was planned to be completed using <a href="http://www.x-plane.com/">X-Plane 11</a>
+                  and the Airbus A319.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p class="copyright text-muted">
+            &copy; 2017 <a href="mailto:{{ AUTHOR_EMAIL }}">{{ AUTHOR_NAME }}</a>.
+            Website powered by: <strong>blogc {{ BLOGC_VERSION }}</strong></p>
+        </div>
+      </div>
+    </div>
+    <script src="//cdn.jsdelivr.net/g/jquery@2.1.4,bootstrap@3.3.4"></script>
+    <script src="{{ BASE_URL }}/assets/custom.js"></script>
+  </body>
+</html>

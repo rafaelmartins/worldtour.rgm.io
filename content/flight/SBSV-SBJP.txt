@@ -1,0 +1,31 @@
+TITLE: Flight 92: Deputado Luiz Eduardo Magalhães (SBSV) → Presidente Castro Pinto (SBJP)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0092
+- **Departure**: Deputado Luiz Eduardo Magalhães (SBSV)
+- **Arrival**: Presidente Castro Pinto (SBJP)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

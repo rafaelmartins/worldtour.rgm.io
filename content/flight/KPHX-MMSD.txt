@@ -1,0 +1,31 @@
+TITLE: Flight 74: Phoenix Sky Harbor (KPHX) → Los Cabos (MMSD)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0074
+- **Departure**: Phoenix Sky Harbor (KPHX)
+- **Arrival**: Los Cabos (MMSD)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

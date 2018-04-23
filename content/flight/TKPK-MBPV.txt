@@ -1,0 +1,31 @@
+TITLE: Flight 96: Robert L. Bradshaw (TKPK) → Providenciales (MBPV)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0096
+- **Departure**: Robert L. Bradshaw (TKPK)
+- **Arrival**: Providenciales (MBPV)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

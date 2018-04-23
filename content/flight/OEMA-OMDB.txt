@@ -1,0 +1,31 @@
+TITLE: Flight 34: Prince Mohammad Bin Abdulaziz (OEMA) → Dubai (OMDB)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0034
+- **Departure**: Prince Mohammad Bin Abdulaziz (OEMA)
+- **Arrival**: Dubai (OMDB)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

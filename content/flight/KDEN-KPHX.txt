@@ -1,0 +1,31 @@
+TITLE: Flight 73: Denver (KDEN) → Phoenix Sky Harbor (KPHX)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0073
+- **Departure**: Denver (KDEN)
+- **Arrival**: Phoenix Sky Harbor (KPHX)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

@@ -1,0 +1,31 @@
+TITLE: Flight 91: Eurico de Aguiar Salles (SBVT) → Deputado Luiz Eduardo Magalhães (SBSV)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0091
+- **Departure**: Eurico de Aguiar Salles (SBVT)
+- **Arrival**: Deputado Luiz Eduardo Magalhães (SBSV)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

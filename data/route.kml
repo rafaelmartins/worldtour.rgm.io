@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark><name>KIAD - Washington Dulles</name><Point><coordinates>-77.455803,38.944500,0</coordinates></Point></Placemark>
+    <Placemark><name>KIAD -> CYUL</name><LineString><coordinates>-77.455803,38.944500,0 -73.740799,45.470600,0</coordinates></LineString></Placemark>
+    <Placemark><name>CYUL - Montreal / Pierre Elliott Trudeau</name><Point><coordinates>-73.740799,45.470600,0</coordinates></Point></Placemark>
+    <Placemark><name>CYUL -> CYYT</name><LineString><coordinates>-73.740799,45.470600,0 -52.751900,47.618599,0</coordinates></LineString></Placemark>
+    <Placemark><name>CYYT - St. John's</name><Point><coordinates>-52.751900,47.618599,0</coordinates></Point></Placemark>
+    <Placemark><name>CYYT -> BGBW</name><LineString><coordinates>-52.751900,47.618599,0 -45.425999,61.160500,0</coordinates></LineString></Placemark>
+    <Placemark><name>BGBW - Narsarsuaq</name><Point><coordinates>-45.425999,61.160500,0</coordinates></Point></Placemark>
+    <Placemark><name>BGBW -> BIKF</name><LineString><coordinates>-45.425999,61.160500,0 -22.605600,63.985001,0</coordinates></LineString></Placemark>
+    <Placemark><name>BIKF - Keflavik</name><Point><coordinates>-22.605600,63.985001,0</coordinates></Point></Placemark>
+    <Placemark><name>BIKF -> EGPK</name><LineString><coordinates>-22.605600,63.985001,0 -4.586670,55.509399,0</coordinates></LineString></Placemark>
+    <Placemark><name>EGPK - Glasgow Prestwick</name><Point><coordinates>-4.586670,55.509399,0</coordinates></Point></Placemark>
+    <Placemark><name>EGPK -> EHAM</name><LineString><coordinates>-4.586670,55.509399,0 4.763890,52.308601,0</coordinates></LineString></Placemark>
+    <Placemark><name>EHAM - Amsterdam Schiphol</name><Point><coordinates>4.763890,52.308601,0</coordinates></Point></Placemark>
+    <Placemark><name>EHAM -> LSZH</name><LineString><coordinates>4.763890,52.308601,0 8.549170,47.464699,0</coordinates></LineString></Placemark>
+    <Placemark><name>LSZH - Zürich</name><Point><coordinates>8.549170,47.464699,0</coordinates></Point></Placemark>
+    <Placemark><name>LSZH -> LFBD</name><LineString><coordinates>8.549170,47.464699,0 -0.715556,44.828300,0</coordinates></LineString></Placemark>
+    <Placemark><name>LFBD - Bordeaux-Mérignac</name><Point><coordinates>-0.715556,44.828300,0</coordinates></Point></Placemark>
+    <Placemark><name>LFBD -> LFMN</name><LineString><coordinates>-0.715556,44.828300,0 7.215870,43.658401,0</coordinates></LineString></Placemark>
+    <Placemark><name>LFMN - Nice-Côte d'Azur</name><Point><coordinates>7.215870,43.658401,0</coordinates></Point></Placemark>
+    <Placemark><name>LFMN -> LEMD</name><LineString><coordinates>7.215870,43.658401,0 -3.562640,40.471926,0</coordinates></LineString></Placemark>
+    <Placemark><name>LEMD - Adolfo Suárez Madrid–Barajas</name><Point><coordinates>-3.562640,40.471926,0</coordinates></Point></Placemark>
+    <Placemark><name>LEMD -> LPMA</name><LineString><coordinates>-3.562640,40.471926,0 -16.774500,32.697899,0</coordinates></LineString></Placemark>
+    <Placemark><name>LPMA - Madeira</name><Point><coordinates>-16.774500,32.697899,0</coordinates></Point></Placemark>
+    <Placemark><name>LPMA -> GQPP</name><LineString><coordinates>-16.774500,32.697899,0 -17.030001,20.933100,0</coordinates></LineString></Placemark>
+    <Placemark><name>GQPP - Nouadhibou</name><Point><coordinates>-17.030001,20.933100,0</coordinates></Point></Placemark>
+    <Placemark><name>GQPP -> GCFV</name><LineString><coordinates>-17.030001,20.933100,0 -13.863800,28.452700,0</coordinates></LineString></Placemark>
+    <Placemark><name>GCFV - Fuerteventura</name><Point><coordinates>-13.863800,28.452700,0</coordinates></Point></Placemark>
+    <Placemark><name>GCFV -> GMMN</name><LineString><coordinates>-13.863800,28.452700,0 -7.589970,33.367500,0</coordinates></LineString></Placemark>
+    <Placemark><name>GMMN - Mohammed V</name><Point><coordinates>-7.589970,33.367500,0</coordinates></Point></Placemark>
+    <Placemark><name>GMMN -> DAAE</name><LineString><coordinates>-7.589970,33.367500,0 5.069920,36.712002,0</coordinates></LineString></Placemark>
+    <Placemark><name>DAAE - Soummam</name><Point><coordinates>5.069920,36.712002,0</coordinates></Point></Placemark>
+    <Placemark><name>DAAE -> LIRN</name><LineString><coordinates>5.069920,36.712002,0 14.290800,40.886002,0</coordinates></LineString></Placemark>
+    <Placemark><name>LIRN - Naples</name><Point><coordinates>14.290800,40.886002,0</coordinates></Point></Placemark>
+    <Placemark><name>LIRN -> LOWI</name><LineString><coordinates>14.290800,40.886002,0 11.344000,47.260201,0</coordinates></LineString></Placemark>
+    <Placemark><name>LOWI - Innsbruck</name><Point><coordinates>11.344000,47.260201,0</coordinates></Point></Placemark>
+    <Placemark><name>LOWI -> LKMT</name><LineString><coordinates>11.344000,47.260201,0 18.111099,49.696301,0</coordinates></LineString></Placemark>
+    <Placemark><name>LKMT - Ostrava Leos Janáček</name><Point><coordinates>18.111099,49.696301,0</coordinates></Point></Placemark>
+    <Placemark><name>LKMT -> EDDF</name><LineString><coordinates>18.111099,49.696301,0 8.570556,50.033333,0</coordinates></LineString></Placemark>
+    <Placemark><name>EDDF - Frankfurt am Main</name><Point><coordinates>8.570556,50.033333,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDF -> EKBI</name><LineString><coordinates>8.570556,50.033333,0 9.151780,55.740299,0</coordinates></LineString></Placemark>
+    <Placemark><name>EKBI - Billund</name><Point><coordinates>9.151780,55.740299,0</coordinates></Point></Placemark>
+    <Placemark><name>EKBI -> ESSA</name><LineString><coordinates>9.151780,55.740299,0 17.918600,59.651901,0</coordinates></LineString></Placemark>
+    <Placemark><name>ESSA - Stockholm-Arlanda</name><Point><coordinates>17.918600,59.651901,0</coordinates></Point></Placemark>
+    <Placemark><name>ESSA -> EDDT</name><LineString><coordinates>17.918600,59.651901,0 13.287700,52.559700,0</coordinates></LineString></Placemark>
+    <Placemark><name>EDDT - Berlin-Tegel</name><Point><coordinates>13.287700,52.559700,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDT -> EVRA</name><LineString><coordinates>13.287700,52.559700,0 23.971100,56.923599,0</coordinates></LineString></Placemark>
+    <Placemark><name>EVRA - Riga</name><Point><coordinates>23.971100,56.923599,0</coordinates></Point></Placemark>
+    <Placemark><name>EVRA -> UUEE</name><LineString><coordinates>23.971100,56.923599,0 37.414600,55.972599,0</coordinates></LineString></Placemark>
+    <Placemark><name>UUEE - Sheremetyevo</name><Point><coordinates>37.414600,55.972599,0</coordinates></Point></Placemark>
+    <Placemark><name>UUEE -> UKKK</name><LineString><coordinates>37.414600,55.972599,0 30.451940,50.401940,0</coordinates></LineString></Placemark>
+    <Placemark><name>UKKK - Kiev Zhuliany</name><Point><coordinates>30.451940,50.401940,0</coordinates></Point></Placemark>
+    <Placemark><name>UKKK -> LHBP</name><LineString><coordinates>30.451940,50.401940,0 19.255600,47.436901,0</coordinates></LineString></Placemark>
+    <Placemark><name>LHBP - Budapest Ferenc Liszt</name><Point><coordinates>19.255600,47.436901,0</coordinates></Point></Placemark>
+    <Placemark><name>LHBP -> LYTV</name><LineString><coordinates>19.255600,47.436901,0 18.723301,42.404701,0</coordinates></LineString></Placemark>
+    <Placemark><name>LYTV - Tivat</name><Point><coordinates>18.723301,42.404701,0</coordinates></Point></Placemark>
+    <Placemark><name>LYTV -> LGAV</name><LineString><coordinates>18.723301,42.404701,0 23.944500,37.936401,0</coordinates></LineString></Placemark>
+    <Placemark><name>LGAV - Eleftherios Venizelos</name><Point><coordinates>23.944500,37.936401,0</coordinates></Point></Placemark>
+    <Placemark><name>LGAV -> OLBA</name><LineString><coordinates>23.944500,37.936401,0 35.488400,33.820900,0</coordinates></LineString></Placemark>
+    <Placemark><name>OLBA - Beirut Rafic Hariri</name><Point><coordinates>35.488400,33.820900,0</coordinates></Point></Placemark>
+    <Placemark><name>OLBA -> HEAT</name><LineString><coordinates>35.488400,33.820900,0 31.011999,27.046499,0</coordinates></LineString></Placemark>
+    <Placemark><name>HEAT - Assiut</name><Point><coordinates>31.011999,27.046499,0</coordinates></Point></Placemark>
+    <Placemark><name>HEAT -> HSSS</name><LineString><coordinates>31.011999,27.046499,0 32.553200,15.589500,0</coordinates></LineString></Placemark>
+    <Placemark><name>HSSS - Khartoum</name><Point><coordinates>32.553200,15.589500,0</coordinates></Point></Placemark>
+    <Placemark><name>HSSS -> HAAB</name><LineString><coordinates>32.553200,15.589500,0 38.799301,8.977890,0</coordinates></LineString></Placemark>
+    <Placemark><name>HAAB - Addis Ababa Bole</name><Point><coordinates>38.799301,8.977890,0</coordinates></Point></Placemark>
+    <Placemark><name>HAAB -> OEMA</name><LineString><coordinates>38.799301,8.977890,0 39.705101,24.553400,0</coordinates></LineString></Placemark>
+    <Placemark><name>OEMA - Prince Mohammad Bin Abdulaziz</name><Point><coordinates>39.705101,24.553400,0</coordinates></Point></Placemark>
+    <Placemark><name>OEMA -> OMDB</name><LineString><coordinates>39.705101,24.553400,0 55.364399,25.252800,0</coordinates></LineString></Placemark>
+    <Placemark><name>OMDB - Dubai</name><Point><coordinates>55.364399,25.252800,0</coordinates></Point></Placemark>
+    <Placemark><name>OMDB -> OKBK</name><LineString><coordinates>55.364399,25.252800,0 47.968899,29.226601,0</coordinates></LineString></Placemark>
+    <Placemark><name>OKBK - Kuwait</name><Point><coordinates>47.968899,29.226601,0</coordinates></Point></Placemark>
+    <Placemark><name>OKBK -> LTAJ</name><LineString><coordinates>47.968899,29.226601,0 37.478699,36.947201,0</coordinates></LineString></Placemark>
+    <Placemark><name>LTAJ - Gaziantep</name><Point><coordinates>37.478699,36.947201,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAJ -> UBBB</name><LineString><coordinates>37.478699,36.947201,0 50.046700,40.467499,0</coordinates></LineString></Placemark>
+    <Placemark><name>UBBB - Heydar Aliyev</name><Point><coordinates>50.046700,40.467499,0</coordinates></Point></Placemark>
+    <Placemark><name>UBBB -> UTAA</name><LineString><coordinates>50.046700,40.467499,0 58.361000,37.986801,0</coordinates></LineString></Placemark>
+    <Placemark><name>UTAA - Ashgabat</name><Point><coordinates>58.361000,37.986801,0</coordinates></Point></Placemark>
+    <Placemark><name>UTAA -> OPPS</name><LineString><coordinates>58.361000,37.986801,0 71.514603,33.993900,0</coordinates></LineString></Placemark>
+    <Placemark><name>OPPS - Peshawar</name><Point><coordinates>71.514603,33.993900,0</coordinates></Point></Placemark>
+    <Placemark><name>OPPS -> VABB</name><LineString><coordinates>71.514603,33.993900,0 72.867897,19.088699,0</coordinates></LineString></Placemark>
+    <Placemark><name>VABB - Chhatrapati Shivaji</name><Point><coordinates>72.867897,19.088699,0</coordinates></Point></Placemark>
+    <Placemark><name>VABB -> VECC</name><LineString><coordinates>72.867897,19.088699,0 88.446701,22.654699,0</coordinates></LineString></Placemark>
+    <Placemark><name>VECC - Netaji Subhash Chandra Bose</name><Point><coordinates>88.446701,22.654699,0</coordinates></Point></Placemark>
+    <Placemark><name>VECC -> VYYY</name><LineString><coordinates>88.446701,22.654699,0 96.133202,16.907301,0</coordinates></LineString></Placemark>
+    <Placemark><name>VYYY - Yangon</name><Point><coordinates>96.133202,16.907301,0</coordinates></Point></Placemark>
+    <Placemark><name>VYYY -> VTSS</name><LineString><coordinates>96.133202,16.907301,0 100.392998,6.933210,0</coordinates></LineString></Placemark>
+    <Placemark><name>VTSS - Hat Yai</name><Point><coordinates>100.392998,6.933210,0</coordinates></Point></Placemark>
+    <Placemark><name>VTSS -> WSSS</name><LineString><coordinates>100.392998,6.933210,0 103.994003,1.350190,0</coordinates></LineString></Placemark>
+    <Placemark><name>WSSS - Singapore Changi</name><Point><coordinates>103.994003,1.350190,0</coordinates></Point></Placemark>
+    <Placemark><name>WSSS -> VTBS</name><LineString><coordinates>103.994003,1.350190,0 100.747002,13.681100,0</coordinates></LineString></Placemark>
+    <Placemark><name>VTBS - Suvarnabhumi</name><Point><coordinates>100.747002,13.681100,0</coordinates></Point></Placemark>
+    <Placemark><name>VTBS -> ZPPP</name><LineString><coordinates>100.747002,13.681100,0 102.929167,25.101944,0</coordinates></LineString></Placemark>
+    <Placemark><name>ZPPP - Kunming Changshui</name><Point><coordinates>102.929167,25.101944,0</coordinates></Point></Placemark>
+    <Placemark><name>ZPPP -> VMMC</name><LineString><coordinates>102.929167,25.101944,0 113.592003,22.149599,0</coordinates></LineString></Placemark>
+    <Placemark><name>VMMC - Macau</name><Point><coordinates>113.592003,22.149599,0</coordinates></Point></Placemark>
+    <Placemark><name>VMMC -> ZSCN</name><LineString><coordinates>113.592003,22.149599,0 115.900002,28.865000,0</coordinates></LineString></Placemark>
+    <Placemark><name>ZSCN - Nanchang Changbei</name><Point><coordinates>115.900002,28.865000,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSCN -> ZSPD</name><LineString><coordinates>115.900002,28.865000,0 121.805000,31.143400,0</coordinates></LineString></Placemark>
+    <Placemark><name>ZSPD - Shanghai Pudong</name><Point><coordinates>121.805000,31.143400,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSPD -> RJFU</name><LineString><coordinates>121.805000,31.143400,0 129.914001,32.916901,0</coordinates></LineString></Placemark>
+    <Placemark><name>RJFU - Nagasaki</name><Point><coordinates>129.914001,32.916901,0</coordinates></Point></Placemark>
+    <Placemark><name>RJFU -> RJAA</name><LineString><coordinates>129.914001,32.916901,0 140.386002,35.764702,0</coordinates></LineString></Placemark>
+    <Placemark><name>RJAA - Narita</name><Point><coordinates>140.386002,35.764702,0</coordinates></Point></Placemark>
+    <Placemark><name>RJAA -> RJFK</name><LineString><coordinates>140.386002,35.764702,0 130.718994,31.803400,0</coordinates></LineString></Placemark>
+    <Placemark><name>RJFK - Kagoshima</name><Point><coordinates>130.718994,31.803400,0</coordinates></Point></Placemark>
+    <Placemark><name>RJFK -> RCTP</name><LineString><coordinates>130.718994,31.803400,0 121.233002,25.077700,0</coordinates></LineString></Placemark>
+    <Placemark><name>RCTP - Taiwan Taoyuan</name><Point><coordinates>121.233002,25.077700,0</coordinates></Point></Placemark>
+    <Placemark><name>RCTP -> RPLI</name><LineString><coordinates>121.233002,25.077700,0 120.531998,18.178101,0</coordinates></LineString></Placemark>
+    <Placemark><name>RPLI - Laoag</name><Point><coordinates>120.531998,18.178101,0</coordinates></Point></Placemark>
+    <Placemark><name>RPLI -> WBSB</name><LineString><coordinates>120.531998,18.178101,0 114.928001,4.944200,0</coordinates></LineString></Placemark>
+    <Placemark><name>WBSB - Brunei</name><Point><coordinates>114.928001,4.944200,0</coordinates></Point></Placemark>
+    <Placemark><name>WBSB -> RPVM</name><LineString><coordinates>114.928001,4.944200,0 123.978996,10.307500,0</coordinates></LineString></Placemark>
+    <Placemark><name>RPVM - Mactan Cebu</name><Point><coordinates>123.978996,10.307500,0</coordinates></Point></Placemark>
+    <Placemark><name>RPVM -> PGUM</name><LineString><coordinates>123.978996,10.307500,0 144.796005,13.483400,0</coordinates></LineString></Placemark>
+    <Placemark><name>PGUM - Antonio B. Won Pat</name><Point><coordinates>144.796005,13.483400,0</coordinates></Point></Placemark>
+    <Placemark><name>PGUM -> PTKK</name><LineString><coordinates>144.796005,13.483400,0 151.843002,7.461870,0</coordinates></LineString></Placemark>
+    <Placemark><name>PTKK - Chuuk</name><Point><coordinates>151.843002,7.461870,0</coordinates></Point></Placemark>
+    <Placemark><name>PTKK -> NWWW</name><LineString><coordinates>151.843002,7.461870,0 166.212997,-22.014601,0</coordinates></LineString></Placemark>
+    <Placemark><name>NWWW - La Tontouta</name><Point><coordinates>166.212997,-22.014601,0</coordinates></Point></Placemark>
+    <Placemark><name>NWWW -> YSSY</name><LineString><coordinates>166.212997,-22.014601,0 151.177002,-33.946098,0</coordinates></LineString></Placemark>
+    <Placemark><name>YSSY - Sydney Kingsford Smith</name><Point><coordinates>151.177002,-33.946098,0</coordinates></Point></Placemark>
+    <Placemark><name>YSSY -> NZAA</name><LineString><coordinates>151.177002,-33.946098,0 174.792007,-37.008099,0</coordinates></LineString></Placemark>
+    <Placemark><name>NZAA - Auckland</name><Point><coordinates>174.792007,-37.008099,0</coordinates></Point></Placemark>
+    <Placemark><name>NZAA -> NFFN</name><LineString><coordinates>174.792007,-37.008099,0 177.442993,-17.755400,0</coordinates></LineString></Placemark>
+    <Placemark><name>NFFN - Nadi</name><Point><coordinates>177.442993,-17.755400,0</coordinates></Point></Placemark>
+    <Placemark><name>NFFN -> PKMJ</name><LineString><coordinates>177.442993,-17.755400,0 171.272003,7.064760,0</coordinates></LineString></Placemark>
+    <Placemark><name>PKMJ - Marshall Islands</name><Point><coordinates>171.272003,7.064760,0</coordinates></Point></Placemark>
+    <Placemark><name>PKMJ -> PHKO</name><LineString><coordinates>171.272003,7.064760,0 -156.045603,19.738783,0</coordinates></LineString></Placemark>
+    <Placemark><name>PHKO - Ellison Onizuka Kona At Keahole</name><Point><coordinates>-156.045603,19.738783,0</coordinates></Point></Placemark>
+    <Placemark><name>PHKO -> KSFO</name><LineString><coordinates>-156.045603,19.738783,0 -122.375000,37.618999,0</coordinates></LineString></Placemark>
+    <Placemark><name>KSFO - San Francisco</name><Point><coordinates>-122.375000,37.618999,0</coordinates></Point></Placemark>
+    <Placemark><name>KSFO -> CYYJ</name><LineString><coordinates>-122.375000,37.618999,0 -123.426003,48.646900,0</coordinates></LineString></Placemark>
+    <Placemark><name>CYYJ - Victoria</name><Point><coordinates>-123.426003,48.646900,0</coordinates></Point></Placemark>
+    <Placemark><name>CYYJ -> PAKT</name><LineString><coordinates>-123.426003,48.646900,0 -131.714004,55.355598,0</coordinates></LineString></Placemark>
+    <Placemark><name>PAKT - Ketchikan</name><Point><coordinates>-131.714004,55.355598,0</coordinates></Point></Placemark>
+    <Placemark><name>PAKT -> CYEG</name><LineString><coordinates>-131.714004,55.355598,0 -113.580002,53.309700,0</coordinates></LineString></Placemark>
+    <Placemark><name>CYEG - Edmonton</name><Point><coordinates>-113.580002,53.309700,0</coordinates></Point></Placemark>
+    <Placemark><name>CYEG -> CYQR</name><LineString><coordinates>-113.580002,53.309700,0 -104.666000,50.431900,0</coordinates></LineString></Placemark>
+    <Placemark><name>CYQR - Regina</name><Point><coordinates>-104.666000,50.431900,0</coordinates></Point></Placemark>
+    <Placemark><name>CYQR -> KMSP</name><LineString><coordinates>-104.666000,50.431900,0 -93.221802,44.882000,0</coordinates></LineString></Placemark>
+    <Placemark><name>KMSP - Minneapolis-St Paul /Wold-Chamberlain</name><Point><coordinates>-93.221802,44.882000,0</coordinates></Point></Placemark>
+    <Placemark><name>KMSP -> KMCI</name><LineString><coordinates>-93.221802,44.882000,0 -94.713898,39.297600,0</coordinates></LineString></Placemark>
+    <Placemark><name>KMCI - Kansas City</name><Point><coordinates>-94.713898,39.297600,0</coordinates></Point></Placemark>
+    <Placemark><name>KMCI -> KDEN</name><LineString><coordinates>-94.713898,39.297600,0 -104.672997,39.861698,0</coordinates></LineString></Placemark>
+    <Placemark><name>KDEN - Denver</name><Point><coordinates>-104.672997,39.861698,0</coordinates></Point></Placemark>
+    <Placemark><name>KDEN -> KPHX</name><LineString><coordinates>-104.672997,39.861698,0 -112.012001,33.434299,0</coordinates></LineString></Placemark>
+    <Placemark><name>KPHX - Phoenix Sky Harbor</name><Point><coordinates>-112.012001,33.434299,0</coordinates></Point></Placemark>
+    <Placemark><name>KPHX -> MMSD</name><LineString><coordinates>-112.012001,33.434299,0 -109.721001,23.151800,0</coordinates></LineString></Placemark>
+    <Placemark><name>MMSD - Los Cabos</name><Point><coordinates>-109.721001,23.151800,0</coordinates></Point></Placemark>
+    <Placemark><name>MMSD -> MMMX</name><LineString><coordinates>-109.721001,23.151800,0 -99.072098,19.436300,0</coordinates></LineString></Placemark>
+    <Placemark><name>MMMX - Licenciado Benito Juarez</name><Point><coordinates>-99.072098,19.436300,0</coordinates></Point></Placemark>
+    <Placemark><name>MMMX -> MGGT</name><LineString><coordinates>-99.072098,19.436300,0 -90.527496,14.583300,0</coordinates></LineString></Placemark>
+    <Placemark><name>MGGT - La Aurora</name><Point><coordinates>-90.527496,14.583300,0</coordinates></Point></Placemark>
+    <Placemark><name>MGGT -> SKSP</name><LineString><coordinates>-90.527496,14.583300,0 -81.711200,12.583600,0</coordinates></LineString></Placemark>
+    <Placemark><name>SKSP - Gustavo Rojas Pinilla</name><Point><coordinates>-81.711200,12.583600,0</coordinates></Point></Placemark>
+    <Placemark><name>SKSP -> SKCG</name><LineString><coordinates>-81.711200,12.583600,0 -75.513000,10.442400,0</coordinates></LineString></Placemark>
+    <Placemark><name>SKCG - Rafael Nuñez</name><Point><coordinates>-75.513000,10.442400,0</coordinates></Point></Placemark>
+    <Placemark><name>SKCG -> SEQM</name><LineString><coordinates>-75.513000,10.442400,0 -78.357500,-0.129167,0</coordinates></LineString></Placemark>
+    <Placemark><name>SEQM - Mariscal Sucre</name><Point><coordinates>-78.357500,-0.129167,0</coordinates></Point></Placemark>
+    <Placemark><name>SEQM -> SBPV</name><LineString><coordinates>-78.357500,-0.129167,0 -63.902302,-8.709290,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBPV - Governador Jorge Teixeira de Oliveira</name><Point><coordinates>-63.902302,-8.709290,0</coordinates></Point></Placemark>
+    <Placemark><name>SBPV -> SLVR</name><LineString><coordinates>-63.902302,-8.709290,0 -63.135399,-17.644800,0</coordinates></LineString></Placemark>
+    <Placemark><name>SLVR - Viru Viru</name><Point><coordinates>-63.135399,-17.644800,0</coordinates></Point></Placemark>
+    <Placemark><name>SLVR -> SACO</name><LineString><coordinates>-63.135399,-17.644800,0 -64.208000,-31.323601,0</coordinates></LineString></Placemark>
+    <Placemark><name>SACO - Ingeniero Ambrosio Taravella</name><Point><coordinates>-64.208000,-31.323601,0</coordinates></Point></Placemark>
+    <Placemark><name>SACO -> SCTE</name><LineString><coordinates>-64.208000,-31.323601,0 -73.094002,-41.438900,0</coordinates></LineString></Placemark>
+    <Placemark><name>SCTE - El Tepual</name><Point><coordinates>-73.094002,-41.438900,0</coordinates></Point></Placemark>
+    <Placemark><name>SCTE -> SABE</name><LineString><coordinates>-73.094002,-41.438900,0 -58.415600,-34.559200,0</coordinates></LineString></Placemark>
+    <Placemark><name>SABE - Jorge Newbery Airpark</name><Point><coordinates>-58.415600,-34.559200,0</coordinates></Point></Placemark>
+    <Placemark><name>SABE -> SBCG</name><LineString><coordinates>-58.415600,-34.559200,0 -54.672501,-20.468700,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBCG - Campo Grande</name><Point><coordinates>-54.672501,-20.468700,0</coordinates></Point></Placemark>
+    <Placemark><name>SBCG -> SBCT</name><LineString><coordinates>-54.672501,-20.468700,0 -49.175800,-25.528500,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBCT - Afonso Pena</name><Point><coordinates>-49.175800,-25.528500,0</coordinates></Point></Placemark>
+    <Placemark><name>SBCT -> SUMU</name><LineString><coordinates>-49.175800,-25.528500,0 -56.030800,-34.838402,0</coordinates></LineString></Placemark>
+    <Placemark><name>SUMU - Carrasco /General C L Berisso</name><Point><coordinates>-56.030800,-34.838402,0</coordinates></Point></Placemark>
+    <Placemark><name>SUMU -> SBPA</name><LineString><coordinates>-56.030800,-34.838402,0 -51.171398,-29.994400,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBPA - Salgado Filho</name><Point><coordinates>-51.171398,-29.994400,0</coordinates></Point></Placemark>
+    <Placemark><name>SBPA -> SBSP</name><LineString><coordinates>-51.171398,-29.994400,0 -46.656387,-23.626110,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBSP - Congonhas</name><Point><coordinates>-46.656387,-23.626110,0</coordinates></Point></Placemark>
+    <Placemark><name>SBSP -> SBVT</name><LineString><coordinates>-46.656387,-23.626110,0 -40.286388,-20.258057,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBVT - Eurico de Aguiar Salles</name><Point><coordinates>-40.286388,-20.258057,0</coordinates></Point></Placemark>
+    <Placemark><name>SBVT -> SBSV</name><LineString><coordinates>-40.286388,-20.258057,0 -38.322498,-12.908611,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBSV - Deputado Luiz Eduardo Magalhães</name><Point><coordinates>-38.322498,-12.908611,0</coordinates></Point></Placemark>
+    <Placemark><name>SBSV -> SBJP</name><LineString><coordinates>-38.322498,-12.908611,0 -34.948612,-7.145833,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBJP - Presidente Castro Pinto</name><Point><coordinates>-34.948612,-7.145833,0</coordinates></Point></Placemark>
+    <Placemark><name>SBJP -> SBSL</name><LineString><coordinates>-34.948612,-7.145833,0 -44.234100,-2.585360,0</coordinates></LineString></Placemark>
+    <Placemark><name>SBSL - Marechal Cunha Machado</name><Point><coordinates>-44.234100,-2.585360,0</coordinates></Point></Placemark>
+    <Placemark><name>SBSL -> SOCA</name><LineString><coordinates>-44.234100,-2.585360,0 -52.360401,4.819810,0</coordinates></LineString></Placemark>
+    <Placemark><name>SOCA - Cayenne-Rochambeau</name><Point><coordinates>-52.360401,4.819810,0</coordinates></Point></Placemark>
+    <Placemark><name>SOCA -> TKPK</name><LineString><coordinates>-52.360401,4.819810,0 -62.718700,17.311199,0</coordinates></LineString></Placemark>
+    <Placemark><name>TKPK - Robert L. Bradshaw</name><Point><coordinates>-62.718700,17.311199,0</coordinates></Point></Placemark>
+    <Placemark><name>TKPK -> MBPV</name><LineString><coordinates>-62.718700,17.311199,0 -72.265900,21.773600,0</coordinates></LineString></Placemark>
+    <Placemark><name>MBPV - Providenciales</name><Point><coordinates>-72.265900,21.773600,0</coordinates></Point></Placemark>
+    <Placemark><name>MBPV -> KMIA</name><LineString><coordinates>-72.265900,21.773600,0 -80.290604,25.793200,0</coordinates></LineString></Placemark>
+    <Placemark><name>KMIA - Miami</name><Point><coordinates>-80.290604,25.793200,0</coordinates></Point></Placemark>
+    <Placemark><name>KMIA -> KATL</name><LineString><coordinates>-80.290604,25.793200,0 -84.428101,33.636700,0</coordinates></LineString></Placemark>
+    <Placemark><name>KATL - Hartsfield Jackson Atlanta</name><Point><coordinates>-84.428101,33.636700,0</coordinates></Point></Placemark>
+    <Placemark><name>KATL -> KIAD</name><LineString><coordinates>-84.428101,33.636700,0 -77.455803,38.944500,0</coordinates></LineString></Placemark>
+    <Placemark><name>KIAD - Washington Dulles</name><Point><coordinates>-77.455803,38.944500,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

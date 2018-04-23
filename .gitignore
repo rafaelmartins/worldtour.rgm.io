@@ -1,0 +1,6 @@
+/_build/
+/scenery/
+*.csv
+
+*.pyc
+*.pyo

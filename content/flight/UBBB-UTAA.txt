@@ -1,0 +1,31 @@
+TITLE: Flight 38: Heydar Aliyev (UBBB) → Ashgabat (UTAA)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0038
+- **Departure**: Heydar Aliyev (UBBB)
+- **Arrival**: Ashgabat (UTAA)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

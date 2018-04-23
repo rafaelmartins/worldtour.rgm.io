@@ -1,0 +1,31 @@
+TITLE: Flight 95: Cayenne-Rochambeau (SOCA) → Robert L. Bradshaw (TKPK)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0095
+- **Departure**: Cayenne-Rochambeau (SOCA)
+- **Arrival**: Robert L. Bradshaw (TKPK)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

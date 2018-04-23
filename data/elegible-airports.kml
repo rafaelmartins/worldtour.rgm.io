@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark><name>BGBW - Narsarsuaq</name><Point><coordinates>-45.425999,61.160500,0</coordinates></Point></Placemark>
+    <Placemark><name>BGSF - Kangerlussuaq</name><Point><coordinates>-50.711603,67.012222,0</coordinates></Point></Placemark>
+    <Placemark><name>BIAR - Akureyri</name><Point><coordinates>-18.072701,65.660004,0</coordinates></Point></Placemark>
+    <Placemark><name>BIKF - Keflavik</name><Point><coordinates>-22.605600,63.985001,0</coordinates></Point></Placemark>
+    <Placemark><name>CYEG - Edmonton</name><Point><coordinates>-113.580002,53.309700,0</coordinates></Point></Placemark>
+    <Placemark><name>CYFB - Iqaluit</name><Point><coordinates>-68.555801,63.756402,0</coordinates></Point></Placemark>
+    <Placemark><name>CYHM - John C. Munro Hamilton</name><Point><coordinates>-79.934998,43.173599,0</coordinates></Point></Placemark>
+    <Placemark><name>CYHZ - Halifax / Stanfield</name><Point><coordinates>-63.508598,44.880798,0</coordinates></Point></Placemark>
+    <Placemark><name>CYLW - Kelowna</name><Point><coordinates>-119.377998,49.956100,0</coordinates></Point></Placemark>
+    <Placemark><name>CYMX - Montreal (Mirabel)</name><Point><coordinates>-74.038696,45.679501,0</coordinates></Point></Placemark>
+    <Placemark><name>CYQB - Quebec Jean Lesage</name><Point><coordinates>-71.393303,46.791100,0</coordinates></Point></Placemark>
+    <Placemark><name>CYQM - Greater Moncton</name><Point><coordinates>-64.678596,46.112202,0</coordinates></Point></Placemark>
+    <Placemark><name>CYQR - Regina</name><Point><coordinates>-104.666000,50.431900,0</coordinates></Point></Placemark>
+    <Placemark><name>CYUL - Montreal / Pierre Elliott Trudeau</name><Point><coordinates>-73.740799,45.470600,0</coordinates></Point></Placemark>
+    <Placemark><name>CYWG - Winnipeg / James Armstrong Richardson</name><Point><coordinates>-97.239899,49.910000,0</coordinates></Point></Placemark>
+    <Placemark><name>CYXE - Saskatoon John G. Diefenbaker</name><Point><coordinates>-106.699997,52.170799,0</coordinates></Point></Placemark>
+    <Placemark><name>CYYC - Calgary</name><Point><coordinates>-114.019997,51.113899,0</coordinates></Point></Placemark>
+    <Placemark><name>CYYJ - Victoria</name><Point><coordinates>-123.426003,48.646900,0</coordinates></Point></Placemark>
+    <Placemark><name>CYYT - St. John's</name><Point><coordinates>-52.751900,47.618599,0</coordinates></Point></Placemark>
+    <Placemark><name>CYYZ - Lester B. Pearson</name><Point><coordinates>-79.630600,43.677200,0</coordinates></Point></Placemark>
+    <Placemark><name>DAAE - Soummam</name><Point><coordinates>5.069920,36.712002,0</coordinates></Point></Placemark>
+    <Placemark><name>DFOO - Bobo Dioulasso</name><Point><coordinates>-4.330970,11.160100,0</coordinates></Point></Placemark>
+    <Placemark><name>DGAA - Kotoka</name><Point><coordinates>-0.166786,5.605190,0</coordinates></Point></Placemark>
+    <Placemark><name>DIAP - Port Bouet</name><Point><coordinates>-3.926290,5.261390,0</coordinates></Point></Placemark>
+    <Placemark><name>DTTJ - Djerba Zarzis</name><Point><coordinates>10.775500,33.875000,0</coordinates></Point></Placemark>
+    <Placemark><name>EBAW - Antwerp (Deurne)</name><Point><coordinates>4.460280,51.189400,0</coordinates></Point></Placemark>
+    <Placemark><name>EBBR - Brussels</name><Point><coordinates>4.484440,50.901402,0</coordinates></Point></Placemark>
+    <Placemark><name>EBCI - Brussels South Charleroi</name><Point><coordinates>4.453820,50.459202,0</coordinates></Point></Placemark>
+    <Placemark><name>EBLG - Liège</name><Point><coordinates>5.443220,50.637402,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDB - Berlin-Schönefeld</name><Point><coordinates>13.522500,52.380001,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDF - Frankfurt am Main</name><Point><coordinates>8.570556,50.033333,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDH - Hamburg</name><Point><coordinates>9.988230,53.630402,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDK - Cologne Bonn</name><Point><coordinates>7.142740,50.865898,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDL - Düsseldorf</name><Point><coordinates>6.766780,51.289501,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDM - Munich</name><Point><coordinates>11.786100,48.353802,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDN - Nuremberg</name><Point><coordinates>11.078056,49.498699,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDP - Leipzig/Halle</name><Point><coordinates>12.236389,51.423889,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDS - Stuttgart</name><Point><coordinates>9.221960,48.689899,0</coordinates></Point></Placemark>
+    <Placemark><name>EDDT - Berlin-Tegel</name><Point><coordinates>13.287700,52.559700,0</coordinates></Point></Placemark>
+    <Placemark><name>EDFH - Frankfurt-Hahn</name><Point><coordinates>7.263890,49.948700,0</coordinates></Point></Placemark>
+    <Placemark><name>EDHL - Lübeck Blankensee</name><Point><coordinates>10.719200,53.805401,0</coordinates></Point></Placemark>
+    <Placemark><name>EDLV - Weeze</name><Point><coordinates>6.142170,51.602402,0</coordinates></Point></Placemark>
+    <Placemark><name>EDLW - Dortmund</name><Point><coordinates>7.612240,51.518299,0</coordinates></Point></Placemark>
+    <Placemark><name>EDNY - Friedrichshafen</name><Point><coordinates>9.511490,47.671299,0</coordinates></Point></Placemark>
+    <Placemark><name>EDSB - Karlsruhe Baden-Baden</name><Point><coordinates>8.080500,48.779400,0</coordinates></Point></Placemark>
+    <Placemark><name>EETN - Lennart Meri Tallinn</name><Point><coordinates>24.832800,59.413300,0</coordinates></Point></Placemark>
+    <Placemark><name>EETU - Tartu</name><Point><coordinates>26.690399,58.307499,0</coordinates></Point></Placemark>
+    <Placemark><name>EFHK - Helsinki Vantaa</name><Point><coordinates>24.963301,60.317200,0</coordinates></Point></Placemark>
+    <Placemark><name>EFKU - Kuopio</name><Point><coordinates>27.797800,63.007099,0</coordinates></Point></Placemark>
+    <Placemark><name>EFLP - Lappeenranta</name><Point><coordinates>28.144743,61.044601,0</coordinates></Point></Placemark>
+    <Placemark><name>EFMA - Mariehamn</name><Point><coordinates>19.898199,60.122200,0</coordinates></Point></Placemark>
+    <Placemark><name>EFRO - Rovaniemi</name><Point><coordinates>25.830400,66.564796,0</coordinates></Point></Placemark>
+    <Placemark><name>EFTU - Turku</name><Point><coordinates>22.262800,60.514099,0</coordinates></Point></Placemark>
+    <Placemark><name>EFVA - Vaasa</name><Point><coordinates>21.762199,63.050701,0</coordinates></Point></Placemark>
+    <Placemark><name>EGAA - Belfast</name><Point><coordinates>-6.215830,54.657501,0</coordinates></Point></Placemark>
+    <Placemark><name>EGAC - George Best Belfast City</name><Point><coordinates>-5.872500,54.618099,0</coordinates></Point></Placemark>
+    <Placemark><name>EGAE - City of Derry</name><Point><coordinates>-7.161110,55.042801,0</coordinates></Point></Placemark>
+    <Placemark><name>EGBB - Birmingham</name><Point><coordinates>-1.748030,52.453899,0</coordinates></Point></Placemark>
+    <Placemark><name>EGCC - Manchester</name><Point><coordinates>-2.274950,53.353699,0</coordinates></Point></Placemark>
+    <Placemark><name>EGCN - Robin Hood Doncaster Sheffield</name><Point><coordinates>-1.010656,53.480538,0</coordinates></Point></Placemark>
+    <Placemark><name>EGFF - Cardiff</name><Point><coordinates>-3.343330,51.396702,0</coordinates></Point></Placemark>
+    <Placemark><name>EGGD - Bristol</name><Point><coordinates>-2.719090,51.382702,0</coordinates></Point></Placemark>
+    <Placemark><name>EGGP - Liverpool John Lennon</name><Point><coordinates>-2.849720,53.333599,0</coordinates></Point></Placemark>
+    <Placemark><name>EGGW - London Luton</name><Point><coordinates>-0.368333,51.874699,0</coordinates></Point></Placemark>
+    <Placemark><name>EGHH - Bournemouth</name><Point><coordinates>-1.842500,50.779999,0</coordinates></Point></Placemark>
+    <Placemark><name>EGHI - Southampton</name><Point><coordinates>-1.356800,50.950298,0</coordinates></Point></Placemark>
+    <Placemark><name>EGJB - Guernsey</name><Point><coordinates>-2.601970,49.435001,0</coordinates></Point></Placemark>
+    <Placemark><name>EGJJ - Jersey</name><Point><coordinates>-2.195510,49.207901,0</coordinates></Point></Placemark>
+    <Placemark><name>EGKK - London Gatwick</name><Point><coordinates>-0.190278,51.148102,0</coordinates></Point></Placemark>
+    <Placemark><name>EGLL - London Heathrow</name><Point><coordinates>-0.461941,51.470600,0</coordinates></Point></Placemark>
+    <Placemark><name>EGMC - Southend</name><Point><coordinates>0.695556,51.571400,0</coordinates></Point></Placemark>
+    <Placemark><name>EGNM - Leeds Bradford</name><Point><coordinates>-1.660570,53.865898,0</coordinates></Point></Placemark>
+    <Placemark><name>EGNT - Newcastle</name><Point><coordinates>-1.691670,55.037498,0</coordinates></Point></Placemark>
+    <Placemark><name>EGNV - Durham Tees Valley</name><Point><coordinates>-1.429410,54.509201,0</coordinates></Point></Placemark>
+    <Placemark><name>EGNX - East Midlands</name><Point><coordinates>-1.328060,52.831100,0</coordinates></Point></Placemark>
+    <Placemark><name>EGPK - Glasgow Prestwick</name><Point><coordinates>-4.586670,55.509399,0</coordinates></Point></Placemark>
+    <Placemark><name>EGSS - London Stansted</name><Point><coordinates>0.235000,51.884998,0</coordinates></Point></Placemark>
+    <Placemark><name>EGTE - Exeter</name><Point><coordinates>-3.413890,50.734402,0</coordinates></Point></Placemark>
+    <Placemark><name>EHAM - Amsterdam Schiphol</name><Point><coordinates>4.763890,52.308601,0</coordinates></Point></Placemark>
+    <Placemark><name>EHBK - Maastricht Aachen</name><Point><coordinates>5.770140,50.911701,0</coordinates></Point></Placemark>
+    <Placemark><name>EHEH - Eindhoven</name><Point><coordinates>5.374530,51.450100,0</coordinates></Point></Placemark>
+    <Placemark><name>EHGG - Eelde</name><Point><coordinates>6.579440,53.119701,0</coordinates></Point></Placemark>
+    <Placemark><name>EHRD - Rotterdam The Hague</name><Point><coordinates>4.437220,51.956902,0</coordinates></Point></Placemark>
+    <Placemark><name>EICK - Cork</name><Point><coordinates>-8.491110,51.841301,0</coordinates></Point></Placemark>
+    <Placemark><name>EIDW - Dublin</name><Point><coordinates>-6.270070,53.421299,0</coordinates></Point></Placemark>
+    <Placemark><name>EIKN - Ireland West Knock</name><Point><coordinates>-8.818490,53.910301,0</coordinates></Point></Placemark>
+    <Placemark><name>EKBI - Billund</name><Point><coordinates>9.151780,55.740299,0</coordinates></Point></Placemark>
+    <Placemark><name>EKCH - Copenhagen Kastrup</name><Point><coordinates>12.656000,55.617901,0</coordinates></Point></Placemark>
+    <Placemark><name>ELLX - Luxembourg-Findel</name><Point><coordinates>6.204444,49.623333,0</coordinates></Point></Placemark>
+    <Placemark><name>ENAL - Ålesund</name><Point><coordinates>6.119700,62.562500,0</coordinates></Point></Placemark>
+    <Placemark><name>ENGM - Oslo Gardermoen</name><Point><coordinates>11.100400,60.193901,0</coordinates></Point></Placemark>
+    <Placemark><name>EPGD - Gdańsk Lech Wałęsa</name><Point><coordinates>18.466200,54.377602,0</coordinates></Point></Placemark>
+    <Placemark><name>EPKK - John Paul II Kraków-Balice</name><Point><coordinates>19.784800,50.077702,0</coordinates></Point></Placemark>
+    <Placemark><name>EPKT - Katowice</name><Point><coordinates>19.080000,50.474300,0</coordinates></Point></Placemark>
+    <Placemark><name>EPSC - Szczecin-Goleniów "Solidarność"</name><Point><coordinates>14.902200,53.584702,0</coordinates></Point></Placemark>
+    <Placemark><name>EPWA - Warsaw Chopin</name><Point><coordinates>20.967100,52.165699,0</coordinates></Point></Placemark>
+    <Placemark><name>EPWR - Copernicus Wrocław</name><Point><coordinates>16.885799,51.102699,0</coordinates></Point></Placemark>
+    <Placemark><name>ESGG - Gothenburg-Landvetter</name><Point><coordinates>12.279800,57.662800,0</coordinates></Point></Placemark>
+    <Placemark><name>ESNU - Umeå</name><Point><coordinates>20.282801,63.791801,0</coordinates></Point></Placemark>
+    <Placemark><name>ESPA - Luleå</name><Point><coordinates>22.122000,65.543800,0</coordinates></Point></Placemark>
+    <Placemark><name>ESSA - Stockholm-Arlanda</name><Point><coordinates>17.918600,59.651901,0</coordinates></Point></Placemark>
+    <Placemark><name>ESSB - Stockholm-Bromma</name><Point><coordinates>17.941700,59.354401,0</coordinates></Point></Placemark>
+    <Placemark><name>EVRA - Riga</name><Point><coordinates>23.971100,56.923599,0</coordinates></Point></Placemark>
+    <Placemark><name>EVVA - Ventspils</name><Point><coordinates>21.544201,57.357800,0</coordinates></Point></Placemark>
+    <Placemark><name>EYKA - Kaunas</name><Point><coordinates>24.084801,54.963902,0</coordinates></Point></Placemark>
+    <Placemark><name>EYVI - Vilnius</name><Point><coordinates>25.285801,54.634102,0</coordinates></Point></Placemark>
+    <Placemark><name>FACT - Cape Town</name><Point><coordinates>18.601700,-33.964802,0</coordinates></Point></Placemark>
+    <Placemark><name>FCPP - Pointe Noire</name><Point><coordinates>11.886600,-4.816030,0</coordinates></Point></Placemark>
+    <Placemark><name>FIMP - Sir Seewoosagur Ramgoolam</name><Point><coordinates>57.683601,-20.430201,0</coordinates></Point></Placemark>
+    <Placemark><name>FMMI - Ivato</name><Point><coordinates>47.478802,-18.796900,0</coordinates></Point></Placemark>
+    <Placemark><name>FOON - M'Vengue El Hadj Omar Bongo Ondimba</name><Point><coordinates>13.438000,-1.656160,0</coordinates></Point></Placemark>
+    <Placemark><name>FPST - São Tomé</name><Point><coordinates>6.712150,0.378175,0</coordinates></Point></Placemark>
+    <Placemark><name>FQMA - Maputo</name><Point><coordinates>32.572601,-25.920799,0</coordinates></Point></Placemark>
+    <Placemark><name>FTTJ - N'Djamena</name><Point><coordinates>15.034000,12.133700,0</coordinates></Point></Placemark>
+    <Placemark><name>FZAA - Ndjili</name><Point><coordinates>15.444600,-4.385750,0</coordinates></Point></Placemark>
+    <Placemark><name>GABS - Senou</name><Point><coordinates>-7.949940,12.533500,0</coordinates></Point></Placemark>
+    <Placemark><name>GCFV - Fuerteventura</name><Point><coordinates>-13.863800,28.452700,0</coordinates></Point></Placemark>
+    <Placemark><name>GCLA - La Palma</name><Point><coordinates>-17.755600,28.626499,0</coordinates></Point></Placemark>
+    <Placemark><name>GCLP - Gran Canaria</name><Point><coordinates>-15.386600,27.931900,0</coordinates></Point></Placemark>
+    <Placemark><name>GCTS - Tenerife South</name><Point><coordinates>-16.572500,28.044500,0</coordinates></Point></Placemark>
+    <Placemark><name>GCXO - Tenerife Norte</name><Point><coordinates>-16.341499,28.482700,0</coordinates></Point></Placemark>
+    <Placemark><name>GGOV - Osvaldo Vieira</name><Point><coordinates>-15.653700,11.894800,0</coordinates></Point></Placemark>
+    <Placemark><name>GLRB - Roberts</name><Point><coordinates>-10.362300,6.233790,0</coordinates></Point></Placemark>
+    <Placemark><name>GMFO - Angads</name><Point><coordinates>-1.923990,34.787201,0</coordinates></Point></Placemark>
+    <Placemark><name>GMMN - Mohammed V</name><Point><coordinates>-7.589970,33.367500,0</coordinates></Point></Placemark>
+    <Placemark><name>GMMW - Nador</name><Point><coordinates>-3.028210,34.988800,0</coordinates></Point></Placemark>
+    <Placemark><name>GQPP - Nouadhibou</name><Point><coordinates>-17.030001,20.933100,0</coordinates></Point></Placemark>
+    <Placemark><name>HAAB - Addis Ababa Bole</name><Point><coordinates>38.799301,8.977890,0</coordinates></Point></Placemark>
+    <Placemark><name>HEAT - Assiut</name><Point><coordinates>31.011999,27.046499,0</coordinates></Point></Placemark>
+    <Placemark><name>HECA - Cairo</name><Point><coordinates>31.405600,30.121901,0</coordinates></Point></Placemark>
+    <Placemark><name>HEGN - Hurghada</name><Point><coordinates>33.799400,27.178301,0</coordinates></Point></Placemark>
+    <Placemark><name>HELX - Luxor</name><Point><coordinates>32.706600,25.671000,0</coordinates></Point></Placemark>
+    <Placemark><name>HEMA - Marsa Alam</name><Point><coordinates>34.583698,25.557100,0</coordinates></Point></Placemark>
+    <Placemark><name>HESH - Sharm El Sheikh</name><Point><coordinates>34.395000,27.977301,0</coordinates></Point></Placemark>
+    <Placemark><name>HESN - Aswan</name><Point><coordinates>32.820000,23.964399,0</coordinates></Point></Placemark>
+    <Placemark><name>HKEL - Eldoret</name><Point><coordinates>35.238899,0.404458,0</coordinates></Point></Placemark>
+    <Placemark><name>HKMO - Mombasa Moi</name><Point><coordinates>39.594200,-4.034830,0</coordinates></Point></Placemark>
+    <Placemark><name>HSPN - Port Sudan New</name><Point><coordinates>37.234100,19.433599,0</coordinates></Point></Placemark>
+    <Placemark><name>HSSS - Khartoum</name><Point><coordinates>32.553200,15.589500,0</coordinates></Point></Placemark>
+    <Placemark><name>HTKJ - Kilimanjaro</name><Point><coordinates>37.074501,-3.429410,0</coordinates></Point></Placemark>
+    <Placemark><name>KATL - Hartsfield Jackson Atlanta</name><Point><coordinates>-84.428101,33.636700,0</coordinates></Point></Placemark>
+    <Placemark><name>KATW - Appleton</name><Point><coordinates>-88.519096,44.258099,0</coordinates></Point></Placemark>
+    <Placemark><name>KAUS - Austin Bergstrom</name><Point><coordinates>-97.669899,30.194500,0</coordinates></Point></Placemark>
+    <Placemark><name>KBDL - Bradley</name><Point><coordinates>-72.683197,41.938900,0</coordinates></Point></Placemark>
+    <Placemark><name>KBGR - Bangor</name><Point><coordinates>-68.828102,44.807400,0</coordinates></Point></Placemark>
+    <Placemark><name>KBHM - Birmingham-Shuttlesworth</name><Point><coordinates>-86.753502,33.562901,0</coordinates></Point></Placemark>
+    <Placemark><name>KBNA - Nashville</name><Point><coordinates>-86.678200,36.124500,0</coordinates></Point></Placemark>
+    <Placemark><name>KBUF - Buffalo Niagara</name><Point><coordinates>-78.732201,42.940498,0</coordinates></Point></Placemark>
+    <Placemark><name>KBWI - Baltimore/Washington Thurgood Marshall</name><Point><coordinates>-76.668297,39.175400,0</coordinates></Point></Placemark>
+    <Placemark><name>KCHS - Charleston -</name><Point><coordinates>-80.040497,32.898602,0</coordinates></Point></Placemark>
+    <Placemark><name>KCLE - Cleveland Hopkins</name><Point><coordinates>-81.849800,41.411701,0</coordinates></Point></Placemark>
+    <Placemark><name>KCLT - Charlotte Douglas</name><Point><coordinates>-80.943100,35.214001,0</coordinates></Point></Placemark>
+    <Placemark><name>KCMH - John Glenn Columbus</name><Point><coordinates>-82.891899,39.998001,0</coordinates></Point></Placemark>
+    <Placemark><name>KCVG - Cincinnati Northern Kentucky</name><Point><coordinates>-84.667801,39.048801,0</coordinates></Point></Placemark>
+    <Placemark><name>KDAY - James M Cox Dayton</name><Point><coordinates>-84.219398,39.902401,0</coordinates></Point></Placemark>
+    <Placemark><name>KDCA - Ronald Reagan Washington National</name><Point><coordinates>-77.037697,38.852100,0</coordinates></Point></Placemark>
+    <Placemark><name>KDEN - Denver</name><Point><coordinates>-104.672997,39.861698,0</coordinates></Point></Placemark>
+    <Placemark><name>KDFW - Dallas Fort Worth</name><Point><coordinates>-97.038002,32.896801,0</coordinates></Point></Placemark>
+    <Placemark><name>KDTW - Detroit Metropolitan Wayne County</name><Point><coordinates>-83.353401,42.212399,0</coordinates></Point></Placemark>
+    <Placemark><name>KEWR - Newark Liberty</name><Point><coordinates>-74.168701,40.692501,0</coordinates></Point></Placemark>
+    <Placemark><name>KEYW - Key West</name><Point><coordinates>-81.759598,24.556101,0</coordinates></Point></Placemark>
+    <Placemark><name>KFAT - Fresno Yosemite</name><Point><coordinates>-119.718002,36.776199,0</coordinates></Point></Placemark>
+    <Placemark><name>KFLL - Fort Lauderdale Hollywood</name><Point><coordinates>-80.152702,26.072599,0</coordinates></Point></Placemark>
+    <Placemark><name>KGEG - Spokane</name><Point><coordinates>-117.533997,47.619900,0</coordinates></Point></Placemark>
+    <Placemark><name>KHOU - William P Hobby</name><Point><coordinates>-95.278900,29.645399,0</coordinates></Point></Placemark>
+    <Placemark><name>KHSV - Huntsville Carl T Jones Field</name><Point><coordinates>-86.775101,34.637199,0</coordinates></Point></Placemark>
+    <Placemark><name>KIAD - Washington Dulles</name><Point><coordinates>-77.455803,38.944500,0</coordinates></Point></Placemark>
+    <Placemark><name>KIAH - George Bush Intercontinental Houston</name><Point><coordinates>-95.341400,29.984400,0</coordinates></Point></Placemark>
+    <Placemark><name>KIND - Indianapolis</name><Point><coordinates>-86.294403,39.717300,0</coordinates></Point></Placemark>
+    <Placemark><name>KJAX - Jacksonville</name><Point><coordinates>-81.687897,30.494101,0</coordinates></Point></Placemark>
+    <Placemark><name>KJFK - John F Kennedy</name><Point><coordinates>-73.778900,40.639801,0</coordinates></Point></Placemark>
+    <Placemark><name>KLAS - McCarran</name><Point><coordinates>-115.152000,36.080101,0</coordinates></Point></Placemark>
+    <Placemark><name>KLGA - La Guardia</name><Point><coordinates>-73.872597,40.777199,0</coordinates></Point></Placemark>
+    <Placemark><name>KMCI - Kansas City</name><Point><coordinates>-94.713898,39.297600,0</coordinates></Point></Placemark>
+    <Placemark><name>KMCO - Orlando</name><Point><coordinates>-81.308998,28.429399,0</coordinates></Point></Placemark>
+    <Placemark><name>KMEM - Memphis</name><Point><coordinates>-89.976700,35.042400,0</coordinates></Point></Placemark>
+    <Placemark><name>KMIA - Miami</name><Point><coordinates>-80.290604,25.793200,0</coordinates></Point></Placemark>
+    <Placemark><name>KMKE - General Mitchell</name><Point><coordinates>-87.896599,42.947201,0</coordinates></Point></Placemark>
+    <Placemark><name>KMSP - Minneapolis-St Paul /Wold-Chamberlain</name><Point><coordinates>-93.221802,44.882000,0</coordinates></Point></Placemark>
+    <Placemark><name>KMYR - Myrtle Beach</name><Point><coordinates>-78.928299,33.679699,0</coordinates></Point></Placemark>
+    <Placemark><name>KONT - Ontario</name><Point><coordinates>-117.600998,34.056000,0</coordinates></Point></Placemark>
+    <Placemark><name>KORD - Chicago O'Hare</name><Point><coordinates>-87.904800,41.978600,0</coordinates></Point></Placemark>
+    <Placemark><name>KPDX - Portland</name><Point><coordinates>-122.598000,45.588699,0</coordinates></Point></Placemark>
+    <Placemark><name>KPHL - Philadelphia</name><Point><coordinates>-75.241096,39.871899,0</coordinates></Point></Placemark>
+    <Placemark><name>KPHX - Phoenix Sky Harbor</name><Point><coordinates>-112.012001,33.434299,0</coordinates></Point></Placemark>
+    <Placemark><name>KPIT - Pittsburgh</name><Point><coordinates>-80.232903,40.491501,0</coordinates></Point></Placemark>
+    <Placemark><name>KPVD - Theodore Francis Green State</name><Point><coordinates>-71.420403,41.732601,0</coordinates></Point></Placemark>
+    <Placemark><name>KPWM - Portland Jetport</name><Point><coordinates>-70.309303,43.646198,0</coordinates></Point></Placemark>
+    <Placemark><name>KRFD - Chicago Rockford</name><Point><coordinates>-89.097198,42.195400,0</coordinates></Point></Placemark>
+    <Placemark><name>KRNO - Reno Tahoe</name><Point><coordinates>-119.767998,39.499100,0</coordinates></Point></Placemark>
+    <Placemark><name>KROC - Greater Rochester</name><Point><coordinates>-77.672401,43.118900,0</coordinates></Point></Placemark>
+    <Placemark><name>KRSW - Southwest Florida</name><Point><coordinates>-81.755203,26.536200,0</coordinates></Point></Placemark>
+    <Placemark><name>KSAN - San Diego</name><Point><coordinates>-117.190002,32.733601,0</coordinates></Point></Placemark>
+    <Placemark><name>KSAT - San Antonio</name><Point><coordinates>-98.469803,29.533701,0</coordinates></Point></Placemark>
+    <Placemark><name>KSDF - Louisville Standiford Field</name><Point><coordinates>-85.736000,38.174400,0</coordinates></Point></Placemark>
+    <Placemark><name>KSFO - San Francisco</name><Point><coordinates>-122.375000,37.618999,0</coordinates></Point></Placemark>
+    <Placemark><name>KSJC - Norman Y. Mineta San Jose</name><Point><coordinates>-121.929001,37.362598,0</coordinates></Point></Placemark>
+    <Placemark><name>KSLC - Salt Lake City</name><Point><coordinates>-111.977997,40.788399,0</coordinates></Point></Placemark>
+    <Placemark><name>KSMF - Sacramento</name><Point><coordinates>-121.591003,38.695400,0</coordinates></Point></Placemark>
+    <Placemark><name>KSRQ - Sarasota Bradenton</name><Point><coordinates>-82.554398,27.395399,0</coordinates></Point></Placemark>
+    <Placemark><name>KSTL - St Louis Lambert</name><Point><coordinates>-90.370003,38.748697,0</coordinates></Point></Placemark>
+    <Placemark><name>KTLH - Tallahassee Regional</name><Point><coordinates>-84.350304,30.396500,0</coordinates></Point></Placemark>
+    <Placemark><name>KTPA - Tampa</name><Point><coordinates>-82.533203,27.975500,0</coordinates></Point></Placemark>
+    <Placemark><name>LBBG - Burgas</name><Point><coordinates>27.515200,42.569599,0</coordinates></Point></Placemark>
+    <Placemark><name>LBSF - Sofia</name><Point><coordinates>23.411436,42.696693,0</coordinates></Point></Placemark>
+    <Placemark><name>LDOS - Osijek</name><Point><coordinates>18.810200,45.462700,0</coordinates></Point></Placemark>
+    <Placemark><name>LDZA - Zagreb</name><Point><coordinates>16.068800,45.742901,0</coordinates></Point></Placemark>
+    <Placemark><name>LDZD - Zemunik</name><Point><coordinates>15.346700,44.108299,0</coordinates></Point></Placemark>
+    <Placemark><name>LEAM - Almería</name><Point><coordinates>-2.370100,36.843899,0</coordinates></Point></Placemark>
+    <Placemark><name>LEBL - Barcelona</name><Point><coordinates>2.078460,41.297100,0</coordinates></Point></Placemark>
+    <Placemark><name>LEIB - Ibiza</name><Point><coordinates>1.373120,38.872898,0</coordinates></Point></Placemark>
+    <Placemark><name>LEMD - Adolfo Suárez Madrid–Barajas</name><Point><coordinates>-3.562640,40.471926,0</coordinates></Point></Placemark>
+    <Placemark><name>LEMG - Málaga</name><Point><coordinates>-4.499110,36.674900,0</coordinates></Point></Placemark>
+    <Placemark><name>LEMH - Menorca</name><Point><coordinates>4.218650,39.862598,0</coordinates></Point></Placemark>
+    <Placemark><name>LEST - Santiago de Compostela</name><Point><coordinates>-8.415140,42.896301,0</coordinates></Point></Placemark>
+    <Placemark><name>LEVC - Valencia</name><Point><coordinates>-0.481625,39.489300,0</coordinates></Point></Placemark>
+    <Placemark><name>LEXJ - Santander</name><Point><coordinates>-3.820010,43.427101,0</coordinates></Point></Placemark>
+    <Placemark><name>LEZL - Sevilla</name><Point><coordinates>-5.893110,37.417999,0</coordinates></Point></Placemark>
+    <Placemark><name>LFBD - Bordeaux-Mérignac</name><Point><coordinates>-0.715556,44.828300,0</coordinates></Point></Placemark>
+    <Placemark><name>LFBE - Bergerac-Roumanière</name><Point><coordinates>0.518611,44.825298,0</coordinates></Point></Placemark>
+    <Placemark><name>LFBI - Poitiers-Biard</name><Point><coordinates>0.306666,46.587700,0</coordinates></Point></Placemark>
+    <Placemark><name>LFKB - Bastia-Poretta</name><Point><coordinates>9.483730,42.552700,0</coordinates></Point></Placemark>
+    <Placemark><name>LFML - Marseille Provence</name><Point><coordinates>5.221424,43.439272,0</coordinates></Point></Placemark>
+    <Placemark><name>LFMN - Nice-Côte d'Azur</name><Point><coordinates>7.215870,43.658401,0</coordinates></Point></Placemark>
+    <Placemark><name>LFPG - Charles de Gaulle</name><Point><coordinates>2.550000,49.012798,0</coordinates></Point></Placemark>
+    <Placemark><name>LFPO - Paris-Orly</name><Point><coordinates>2.379444,48.723333,0</coordinates></Point></Placemark>
+    <Placemark><name>LFRD - Dinard-Pleurtuit-Saint-Malo</name><Point><coordinates>-2.079960,48.587700,0</coordinates></Point></Placemark>
+    <Placemark><name>LFRS - Nantes Atlantique</name><Point><coordinates>-1.610730,47.153198,0</coordinates></Point></Placemark>
+    <Placemark><name>LFST - Strasbourg</name><Point><coordinates>7.628230,48.538300,0</coordinates></Point></Placemark>
+    <Placemark><name>LGAV - Eleftherios Venizelos</name><Point><coordinates>23.944500,37.936401,0</coordinates></Point></Placemark>
+    <Placemark><name>LGKF - Kefallinia</name><Point><coordinates>20.500500,38.120098,0</coordinates></Point></Placemark>
+    <Placemark><name>LGKO - Kos</name><Point><coordinates>27.091700,36.793301,0</coordinates></Point></Placemark>
+    <Placemark><name>LGMT - Mytilene</name><Point><coordinates>26.598301,39.056702,0</coordinates></Point></Placemark>
+    <Placemark><name>LGSM - Samos</name><Point><coordinates>26.911699,37.689999,0</coordinates></Point></Placemark>
+    <Placemark><name>LHBP - Budapest Ferenc Liszt</name><Point><coordinates>19.255600,47.436901,0</coordinates></Point></Placemark>
+    <Placemark><name>LHDC - Debrecen</name><Point><coordinates>21.615299,47.488899,0</coordinates></Point></Placemark>
+    <Placemark><name>LIBR - Brindisi – Salento</name><Point><coordinates>17.947001,40.657600,0</coordinates></Point></Placemark>
+    <Placemark><name>LICA - Lamezia Terme</name><Point><coordinates>16.242300,38.905399,0</coordinates></Point></Placemark>
+    <Placemark><name>LICJ - Falcone–Borsellino</name><Point><coordinates>13.091000,38.175999,0</coordinates></Point></Placemark>
+    <Placemark><name>LIEO - Olbia Costa Smeralda</name><Point><coordinates>9.517630,40.898701,0</coordinates></Point></Placemark>
+    <Placemark><name>LIMC - Malpensa</name><Point><coordinates>8.728110,45.630600,0</coordinates></Point></Placemark>
+    <Placemark><name>LIPE - Bologna Guglielmo Marconi</name><Point><coordinates>11.288700,44.535400,0</coordinates></Point></Placemark>
+    <Placemark><name>LIPZ - Venice Marco Polo</name><Point><coordinates>12.351900,45.505299,0</coordinates></Point></Placemark>
+    <Placemark><name>LIRA - Ciampino–G. B. Pastine</name><Point><coordinates>12.594900,41.799400,0</coordinates></Point></Placemark>
+    <Placemark><name>LIRF - Leonardo da Vinci–Fiumicino</name><Point><coordinates>12.238889,41.800278,0</coordinates></Point></Placemark>
+    <Placemark><name>LIRN - Naples</name><Point><coordinates>14.290800,40.886002,0</coordinates></Point></Placemark>
+    <Placemark><name>LKMT - Ostrava Leos Janáček</name><Point><coordinates>18.111099,49.696301,0</coordinates></Point></Placemark>
+    <Placemark><name>LKPR - Václav Havel Prague</name><Point><coordinates>14.260000,50.100800,0</coordinates></Point></Placemark>
+    <Placemark><name>LLBG - Ben Gurion</name><Point><coordinates>34.886700,32.011398,0</coordinates></Point></Placemark>
+    <Placemark><name>LMML - Malta</name><Point><coordinates>14.477500,35.857498,0</coordinates></Point></Placemark>
+    <Placemark><name>LOWI - Innsbruck</name><Point><coordinates>11.344000,47.260201,0</coordinates></Point></Placemark>
+    <Placemark><name>LOWS - Salzburg</name><Point><coordinates>13.004300,47.793301,0</coordinates></Point></Placemark>
+    <Placemark><name>LOWW - Vienna</name><Point><coordinates>16.569700,48.110298,0</coordinates></Point></Placemark>
+    <Placemark><name>LPFR - Faro</name><Point><coordinates>-7.965910,37.014400,0</coordinates></Point></Placemark>
+    <Placemark><name>LPLA - Lajes</name><Point><coordinates>-27.090799,38.761799,0</coordinates></Point></Placemark>
+    <Placemark><name>LPMA - Madeira</name><Point><coordinates>-16.774500,32.697899,0</coordinates></Point></Placemark>
+    <Placemark><name>LPPD - João Paulo II</name><Point><coordinates>-25.697901,37.741199,0</coordinates></Point></Placemark>
+    <Placemark><name>LPPR - Francisco de Sá Carneiro</name><Point><coordinates>-8.681390,41.248100,0</coordinates></Point></Placemark>
+    <Placemark><name>LPPT - Humberto Delgado (Lisbon Portela )</name><Point><coordinates>-9.135920,38.781300,0</coordinates></Point></Placemark>
+    <Placemark><name>LQMO - Mostar</name><Point><coordinates>17.845900,43.282902,0</coordinates></Point></Placemark>
+    <Placemark><name>LROP - Henri Coandă</name><Point><coordinates>26.085000,44.571111,0</coordinates></Point></Placemark>
+    <Placemark><name>LSZH - Zürich</name><Point><coordinates>8.549170,47.464699,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAC - Esenboğa</name><Point><coordinates>32.995098,40.128101,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAI - Antalya</name><Point><coordinates>30.800501,36.898701,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAJ - Gaziantep</name><Point><coordinates>37.478699,36.947201,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAN - Konya</name><Point><coordinates>32.561901,37.979000,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAT - Malatya Erhaç</name><Point><coordinates>38.091000,38.435299,0</coordinates></Point></Placemark>
+    <Placemark><name>LTAZ - Nevşehir Kapadokya</name><Point><coordinates>34.534500,38.771900,0</coordinates></Point></Placemark>
+    <Placemark><name>LTBA - Atatürk</name><Point><coordinates>28.814600,40.976898,0</coordinates></Point></Placemark>
+    <Placemark><name>LTBJ - Adnan Menderes</name><Point><coordinates>27.157000,38.292400,0</coordinates></Point></Placemark>
+    <Placemark><name>LTBS - Dalaman</name><Point><coordinates>28.792500,36.713100,0</coordinates></Point></Placemark>
+    <Placemark><name>LTCG - Trabzon</name><Point><coordinates>39.789700,40.995098,0</coordinates></Point></Placemark>
+    <Placemark><name>LTFE - Milas Bodrum</name><Point><coordinates>27.664301,37.250599,0</coordinates></Point></Placemark>
+    <Placemark><name>LTFH - Samsun Çarşamba</name><Point><coordinates>36.567101,41.254501,0</coordinates></Point></Placemark>
+    <Placemark><name>LTFJ - Sabiha Gökçen</name><Point><coordinates>29.309200,40.898602,0</coordinates></Point></Placemark>
+    <Placemark><name>LXGB - Gibraltar</name><Point><coordinates>-5.349660,36.151199,0</coordinates></Point></Placemark>
+    <Placemark><name>LYTV - Tivat</name><Point><coordinates>18.723301,42.404701,0</coordinates></Point></Placemark>
+    <Placemark><name>LZTT - Poprad-Tatry</name><Point><coordinates>20.241100,49.073601,0</coordinates></Point></Placemark>
+    <Placemark><name>MBPV - Providenciales</name><Point><coordinates>-72.265900,21.773600,0</coordinates></Point></Placemark>
+    <Placemark><name>MDPC - Punta Cana</name><Point><coordinates>-68.363403,18.567400,0</coordinates></Point></Placemark>
+    <Placemark><name>MDPP - Gregorio Luperon</name><Point><coordinates>-70.570000,19.757900,0</coordinates></Point></Placemark>
+    <Placemark><name>MGGT - La Aurora</name><Point><coordinates>-90.527496,14.583300,0</coordinates></Point></Placemark>
+    <Placemark><name>MHTG - Toncontín</name><Point><coordinates>-87.217201,14.060900,0</coordinates></Point></Placemark>
+    <Placemark><name>MKJP - Norman Manley</name><Point><coordinates>-76.787498,17.935699,0</coordinates></Point></Placemark>
+    <Placemark><name>MKJS - Sangster</name><Point><coordinates>-77.913399,18.503700,0</coordinates></Point></Placemark>
+    <Placemark><name>MMAA - General Juan N Alvarez</name><Point><coordinates>-99.753998,16.757099,0</coordinates></Point></Placemark>
+    <Placemark><name>MMCE - Ciudad del Carmen</name><Point><coordinates>-91.799004,18.653700,0</coordinates></Point></Placemark>
+    <Placemark><name>MMCZ - Cozumel</name><Point><coordinates>-86.925598,20.522400,0</coordinates></Point></Placemark>
+    <Placemark><name>MMDO - General Guadalupe Victoria</name><Point><coordinates>-104.528000,24.124201,0</coordinates></Point></Placemark>
+    <Placemark><name>MMLT - Loreto</name><Point><coordinates>-111.348000,25.989201,0</coordinates></Point></Placemark>
+    <Placemark><name>MMMD - Licenciado Manuel Crescencio Rejon Int</name><Point><coordinates>-89.657700,20.937000,0</coordinates></Point></Placemark>
+    <Placemark><name>MMMX - Licenciado Benito Juarez</name><Point><coordinates>-99.072098,19.436300,0</coordinates></Point></Placemark>
+    <Placemark><name>MMOX - Xoxocotlán</name><Point><coordinates>-96.726601,16.999901,0</coordinates></Point></Placemark>
+    <Placemark><name>MMPB - Hermanos Serdán</name><Point><coordinates>-98.371399,19.158100,0</coordinates></Point></Placemark>
+    <Placemark><name>MMPR - Licenciado Gustavo Díaz Ordaz</name><Point><coordinates>-105.253998,20.680099,0</coordinates></Point></Placemark>
+    <Placemark><name>MMQT - Querétaro Intercontinental</name><Point><coordinates>-100.185997,20.617300,0</coordinates></Point></Placemark>
+    <Placemark><name>MMSD - Los Cabos</name><Point><coordinates>-109.721001,23.151800,0</coordinates></Point></Placemark>
+    <Placemark><name>MMTJ - General Abelardo L. Rodríguez</name><Point><coordinates>-116.970001,32.541100,0</coordinates></Point></Placemark>
+    <Placemark><name>MMTO - Licenciado Adolfo Lopez Mateos</name><Point><coordinates>-99.566002,19.337099,0</coordinates></Point></Placemark>
+    <Placemark><name>MMUN - Cancún</name><Point><coordinates>-86.877098,21.036501,0</coordinates></Point></Placemark>
+    <Placemark><name>MMVR - General Heriberto Jara</name><Point><coordinates>-96.187302,19.145901,0</coordinates></Point></Placemark>
+    <Placemark><name>MNMG - Augusto C. Sandino (Managua)</name><Point><coordinates>-86.168198,12.141500,0</coordinates></Point></Placemark>
+    <Placemark><name>MTPP - Toussaint Louverture</name><Point><coordinates>-72.292503,18.580000,0</coordinates></Point></Placemark>
+    <Placemark><name>MUCF - Jaime Gonzalez</name><Point><coordinates>-80.414200,22.150000,0</coordinates></Point></Placemark>
+    <Placemark><name>MUCL - Vilo Acuña</name><Point><coordinates>-81.545998,21.616501,0</coordinates></Point></Placemark>
+    <Placemark><name>MUCU - Antonio Maceo</name><Point><coordinates>-75.835403,19.969801,0</coordinates></Point></Placemark>
+    <Placemark><name>MUHA - José Martí</name><Point><coordinates>-82.409103,22.989201,0</coordinates></Point></Placemark>
+    <Placemark><name>MUVR - Juan Gualberto Gomez</name><Point><coordinates>-81.435303,23.034401,0</coordinates></Point></Placemark>
+    <Placemark><name>MWCB - Gerrard Smith</name><Point><coordinates>-79.882797,19.687000,0</coordinates></Point></Placemark>
+    <Placemark><name>MWCR - Owen Roberts</name><Point><coordinates>-81.357697,19.292801,0</coordinates></Point></Placemark>
+    <Placemark><name>MYEF - Exuma</name><Point><coordinates>-75.877998,23.562599,0</coordinates></Point></Placemark>
+    <Placemark><name>MYGF - Grand Bahama</name><Point><coordinates>-78.695602,26.558701,0</coordinates></Point></Placemark>
+    <Placemark><name>MYNN - Lynden Pindling</name><Point><coordinates>-77.466202,25.039000,0</coordinates></Point></Placemark>
+    <Placemark><name>NCRG - Rarotonga</name><Point><coordinates>-159.806000,-21.202700,0</coordinates></Point></Placemark>
+    <Placemark><name>NFFN - Nadi</name><Point><coordinates>177.442993,-17.755400,0</coordinates></Point></Placemark>
+    <Placemark><name>NSFA - Faleolo</name><Point><coordinates>-172.007996,-13.830000,0</coordinates></Point></Placemark>
+    <Placemark><name>NWWW - La Tontouta</name><Point><coordinates>166.212997,-22.014601,0</coordinates></Point></Placemark>
+    <Placemark><name>NZAA - Auckland</name><Point><coordinates>174.792007,-37.008099,0</coordinates></Point></Placemark>
+    <Placemark><name>NZDN - Dunedin</name><Point><coordinates>170.197998,-45.928101,0</coordinates></Point></Placemark>
+    <Placemark><name>NZWN - Wellington</name><Point><coordinates>174.804993,-41.327202,0</coordinates></Point></Placemark>
+    <Placemark><name>OBBI - Bahrain</name><Point><coordinates>50.633598,26.270800,0</coordinates></Point></Placemark>
+    <Placemark><name>OEDF - King Fahd</name><Point><coordinates>49.797901,26.471201,0</coordinates></Point></Placemark>
+    <Placemark><name>OEMA - Prince Mohammad Bin Abdulaziz</name><Point><coordinates>39.705101,24.553400,0</coordinates></Point></Placemark>
+    <Placemark><name>OJAI - Queen Alia</name><Point><coordinates>35.993198,31.722601,0</coordinates></Point></Placemark>
+    <Placemark><name>OKBK - Kuwait</name><Point><coordinates>47.968899,29.226601,0</coordinates></Point></Placemark>
+    <Placemark><name>OLBA - Beirut Rafic Hariri</name><Point><coordinates>35.488400,33.820900,0</coordinates></Point></Placemark>
+    <Placemark><name>OMAA - Abu Dhabi</name><Point><coordinates>54.651100,24.433001,0</coordinates></Point></Placemark>
+    <Placemark><name>OMAL - Al Ain</name><Point><coordinates>55.609200,24.261700,0</coordinates></Point></Placemark>
+    <Placemark><name>OMDB - Dubai</name><Point><coordinates>55.364399,25.252800,0</coordinates></Point></Placemark>
+    <Placemark><name>OPKC - Jinnah</name><Point><coordinates>67.160797,24.906500,0</coordinates></Point></Placemark>
+    <Placemark><name>OPLA - Alama Iqbal</name><Point><coordinates>74.403603,31.521601,0</coordinates></Point></Placemark>
+    <Placemark><name>OPPS - Peshawar</name><Point><coordinates>71.514603,33.993900,0</coordinates></Point></Placemark>
+    <Placemark><name>OPRN - Benazir Bhutto</name><Point><coordinates>73.099197,33.616699,0</coordinates></Point></Placemark>
+    <Placemark><name>PAKT - Ketchikan</name><Point><coordinates>-131.714004,55.355598,0</coordinates></Point></Placemark>
+    <Placemark><name>PANC - Ted Stevens Anchorage</name><Point><coordinates>-149.996002,61.174400,0</coordinates></Point></Placemark>
+    <Placemark><name>PGRO - Rota</name><Point><coordinates>145.242996,14.174300,0</coordinates></Point></Placemark>
+    <Placemark><name>PGSN - Saipan</name><Point><coordinates>145.729004,15.119000,0</coordinates></Point></Placemark>
+    <Placemark><name>PGUM - Antonio B. Won Pat</name><Point><coordinates>144.796005,13.483400,0</coordinates></Point></Placemark>
+    <Placemark><name>PGWT - Tinian</name><Point><coordinates>145.619003,14.999200,0</coordinates></Point></Placemark>
+    <Placemark><name>PHKO - Ellison Onizuka Kona At Keahole</name><Point><coordinates>-156.045603,19.738783,0</coordinates></Point></Placemark>
+    <Placemark><name>PKMJ - Marshall Islands</name><Point><coordinates>171.272003,7.064760,0</coordinates></Point></Placemark>
+    <Placemark><name>PKWA - Bucholz Army Air Field</name><Point><coordinates>167.731995,8.720120,0</coordinates></Point></Placemark>
+    <Placemark><name>PTKK - Chuuk</name><Point><coordinates>151.843002,7.461870,0</coordinates></Point></Placemark>
+    <Placemark><name>RCKH - Kaohsiung</name><Point><coordinates>120.349998,22.577101,0</coordinates></Point></Placemark>
+    <Placemark><name>RCTP - Taiwan Taoyuan</name><Point><coordinates>121.233002,25.077700,0</coordinates></Point></Placemark>
+    <Placemark><name>RJAA - Narita</name><Point><coordinates>140.386002,35.764702,0</coordinates></Point></Placemark>
+    <Placemark><name>RJCC - New Chitose</name><Point><coordinates>141.692001,42.775200,0</coordinates></Point></Placemark>
+    <Placemark><name>RJCH - Hakodate</name><Point><coordinates>140.822006,41.770000,0</coordinates></Point></Placemark>
+    <Placemark><name>RJFK - Kagoshima</name><Point><coordinates>130.718994,31.803400,0</coordinates></Point></Placemark>
+    <Placemark><name>RJFU - Nagasaki</name><Point><coordinates>129.914001,32.916901,0</coordinates></Point></Placemark>
+    <Placemark><name>RJSA - Aomori</name><Point><coordinates>140.690994,40.734699,0</coordinates></Point></Placemark>
+    <Placemark><name>RJSK - Akita</name><Point><coordinates>140.218994,39.615601,0</coordinates></Point></Placemark>
+    <Placemark><name>RJSS - Sendai</name><Point><coordinates>140.917007,38.139702,0</coordinates></Point></Placemark>
+    <Placemark><name>RKSI - Incheon</name><Point><coordinates>126.450996,37.469101,0</coordinates></Point></Placemark>
+    <Placemark><name>RKSS - Gimpo</name><Point><coordinates>126.791000,37.558300,0</coordinates></Point></Placemark>
+    <Placemark><name>RPLI - Laoag</name><Point><coordinates>120.531998,18.178101,0</coordinates></Point></Placemark>
+    <Placemark><name>RPLL - Ninoy Aquino</name><Point><coordinates>121.019997,14.508600,0</coordinates></Point></Placemark>
+    <Placemark><name>RPVI - Iloilo</name><Point><coordinates>122.493358,10.833017,0</coordinates></Point></Placemark>
+    <Placemark><name>RPVM - Mactan Cebu</name><Point><coordinates>123.978996,10.307500,0</coordinates></Point></Placemark>
+    <Placemark><name>SABE - Jorge Newbery Airpark</name><Point><coordinates>-58.415600,-34.559200,0</coordinates></Point></Placemark>
+    <Placemark><name>SACO - Ingeniero Ambrosio Taravella</name><Point><coordinates>-64.208000,-31.323601,0</coordinates></Point></Placemark>
+    <Placemark><name>SAWG - Piloto Civil N. Fernández</name><Point><coordinates>-69.312600,-51.608900,0</coordinates></Point></Placemark>
+    <Placemark><name>SAWH - Malvinas Argentinas</name><Point><coordinates>-68.295800,-54.843300,0</coordinates></Point></Placemark>
+    <Placemark><name>SBAR - Santa Maria</name><Point><coordinates>-37.070301,-10.984000,0</coordinates></Point></Placemark>
+    <Placemark><name>SBCF - Tancredo Neves</name><Point><coordinates>-43.971943,-19.624443,0</coordinates></Point></Placemark>
+    <Placemark><name>SBCG - Campo Grande</name><Point><coordinates>-54.672501,-20.468700,0</coordinates></Point></Placemark>
+    <Placemark><name>SBCT - Afonso Pena</name><Point><coordinates>-49.175800,-25.528500,0</coordinates></Point></Placemark>
+    <Placemark><name>SBCY - Marechal Rondon</name><Point><coordinates>-56.116699,-15.652900,0</coordinates></Point></Placemark>
+    <Placemark><name>SBEG - Eduardo Gomes</name><Point><coordinates>-60.049702,-3.038610,0</coordinates></Point></Placemark>
+    <Placemark><name>SBFL - Hercílio Luz</name><Point><coordinates>-48.552502,-27.670279,0</coordinates></Point></Placemark>
+    <Placemark><name>SBFZ - Pinto Martins</name><Point><coordinates>-38.532600,-3.776280,0</coordinates></Point></Placemark>
+    <Placemark><name>SBGL - Rio Galeão – Tom Jobim</name><Point><coordinates>-43.250557,-22.809999,0</coordinates></Point></Placemark>
+    <Placemark><name>SBGO - Santa Genoveva</name><Point><coordinates>-49.220699,-16.632000,0</coordinates></Point></Placemark>
+    <Placemark><name>SBGR - Guarulhos - Governador André Franco Montoro</name><Point><coordinates>-46.473057,-23.435556,0</coordinates></Point></Placemark>
+    <Placemark><name>SBJP - Presidente Castro Pinto</name><Point><coordinates>-34.948612,-7.145833,0</coordinates></Point></Placemark>
+    <Placemark><name>SBKP - Viracopos</name><Point><coordinates>-47.134499,-23.007401,0</coordinates></Point></Placemark>
+    <Placemark><name>SBMO - Zumbi dos Palmares</name><Point><coordinates>-35.791698,-9.510810,0</coordinates></Point></Placemark>
+    <Placemark><name>SBPA - Salgado Filho</name><Point><coordinates>-51.171398,-29.994400,0</coordinates></Point></Placemark>
+    <Placemark><name>SBPL - Senador Nilo Coelho</name><Point><coordinates>-40.569099,-9.362410,0</coordinates></Point></Placemark>
+    <Placemark><name>SBPV - Governador Jorge Teixeira de Oliveira</name><Point><coordinates>-63.902302,-8.709290,0</coordinates></Point></Placemark>
+    <Placemark><name>SBRF - Guararapes - Gilberto Freyre</name><Point><coordinates>-34.923599,-8.126490,0</coordinates></Point></Placemark>
+    <Placemark><name>SBSL - Marechal Cunha Machado</name><Point><coordinates>-44.234100,-2.585360,0</coordinates></Point></Placemark>
+    <Placemark><name>SBSP - Congonhas</name><Point><coordinates>-46.656387,-23.626110,0</coordinates></Point></Placemark>
+    <Placemark><name>SBSV - Deputado Luiz Eduardo Magalhães</name><Point><coordinates>-38.322498,-12.908611,0</coordinates></Point></Placemark>
+    <Placemark><name>SBVT - Eurico de Aguiar Salles</name><Point><coordinates>-40.286388,-20.258057,0</coordinates></Point></Placemark>
+    <Placemark><name>SCEL - Comodoro Arturo Merino Benítez</name><Point><coordinates>-70.785797,-33.393002,0</coordinates></Point></Placemark>
+    <Placemark><name>SCIP - Mataveri</name><Point><coordinates>-109.421997,-27.164801,0</coordinates></Point></Placemark>
+    <Placemark><name>SCTE - El Tepual</name><Point><coordinates>-73.094002,-41.438900,0</coordinates></Point></Placemark>
+    <Placemark><name>SEQM - Mariscal Sucre</name><Point><coordinates>-78.357500,-0.129167,0</coordinates></Point></Placemark>
+    <Placemark><name>SKCG - Rafael Nuñez</name><Point><coordinates>-75.513000,10.442400,0</coordinates></Point></Placemark>
+    <Placemark><name>SKSP - Gustavo Rojas Pinilla</name><Point><coordinates>-81.711200,12.583600,0</coordinates></Point></Placemark>
+    <Placemark><name>SLVR - Viru Viru</name><Point><coordinates>-63.135399,-17.644800,0</coordinates></Point></Placemark>
+    <Placemark><name>SOCA - Cayenne-Rochambeau</name><Point><coordinates>-52.360401,4.819810,0</coordinates></Point></Placemark>
+    <Placemark><name>SUMU - Carrasco /General C L Berisso</name><Point><coordinates>-56.030800,-34.838402,0</coordinates></Point></Placemark>
+    <Placemark><name>SYCJ - Cheddi Jagan</name><Point><coordinates>-58.254101,6.498550,0</coordinates></Point></Placemark>
+    <Placemark><name>TBPB - Sir Grantley Adams</name><Point><coordinates>-59.492500,13.074600,0</coordinates></Point></Placemark>
+    <Placemark><name>TFFF - Martinique Aimé Césaire</name><Point><coordinates>-61.003201,14.591000,0</coordinates></Point></Placemark>
+    <Placemark><name>TFFR - Pointe-à-Pitre Le Raizet</name><Point><coordinates>-61.531799,16.265301,0</coordinates></Point></Placemark>
+    <Placemark><name>TGPY - Point Salines</name><Point><coordinates>-61.786201,12.004200,0</coordinates></Point></Placemark>
+    <Placemark><name>TISX - Henry E Rohlsen</name><Point><coordinates>-64.798599,17.701900,0</coordinates></Point></Placemark>
+    <Placemark><name>TJBQ - Rafael Hernandez</name><Point><coordinates>-67.129402,18.494900,0</coordinates></Point></Placemark>
+    <Placemark><name>TJSJ - Luis Munoz Marin</name><Point><coordinates>-66.001801,18.439400,0</coordinates></Point></Placemark>
+    <Placemark><name>TKPK - Robert L. Bradshaw</name><Point><coordinates>-62.718700,17.311199,0</coordinates></Point></Placemark>
+    <Placemark><name>TLPL - Hewanorra</name><Point><coordinates>-60.952599,13.733200,0</coordinates></Point></Placemark>
+    <Placemark><name>TNCB - Flamingo</name><Point><coordinates>-68.268501,12.131000,0</coordinates></Point></Placemark>
+    <Placemark><name>TTCP - Tobago-Crown Point</name><Point><coordinates>-60.832199,11.149700,0</coordinates></Point></Placemark>
+    <Placemark><name>TTPP - Piarco</name><Point><coordinates>-61.337200,10.595400,0</coordinates></Point></Placemark>
+    <Placemark><name>TXKF - L.F. Wade</name><Point><coordinates>-64.678703,32.363998,0</coordinates></Point></Placemark>
+    <Placemark><name>UBBB - Heydar Aliyev</name><Point><coordinates>50.046700,40.467499,0</coordinates></Point></Placemark>
+    <Placemark><name>UBBG - Ganja</name><Point><coordinates>46.317600,40.737701,0</coordinates></Point></Placemark>
+    <Placemark><name>UHSS - Yuzhno-Sakhalinsk</name><Point><coordinates>142.718002,46.888699,0</coordinates></Point></Placemark>
+    <Placemark><name>UKKK - Kiev Zhuliany</name><Point><coordinates>30.451940,50.401940,0</coordinates></Point></Placemark>
+    <Placemark><name>UKKM - Gostomel</name><Point><coordinates>30.191900,50.603500,0</coordinates></Point></Placemark>
+    <Placemark><name>ULLI - Pulkovo</name><Point><coordinates>30.262501,59.800301,0</coordinates></Point></Placemark>
+    <Placemark><name>ULMM - Murmansk</name><Point><coordinates>32.750801,68.781700,0</coordinates></Point></Placemark>
+    <Placemark><name>ULOO - Pskov</name><Point><coordinates>28.395599,57.783901,0</coordinates></Point></Placemark>
+    <Placemark><name>UMKK - Khrabrovo</name><Point><coordinates>20.592600,54.889999,0</coordinates></Point></Placemark>
+    <Placemark><name>UNTT - Bogashevo</name><Point><coordinates>85.208298,56.380299,0</coordinates></Point></Placemark>
+    <Placemark><name>URML - Uytash</name><Point><coordinates>47.652302,42.816799,0</coordinates></Point></Placemark>
+    <Placemark><name>URMO - Beslan</name><Point><coordinates>44.606602,43.205101,0</coordinates></Point></Placemark>
+    <Placemark><name>USCC - Chelyabinsk Balandino</name><Point><coordinates>61.503300,55.305801,0</coordinates></Point></Placemark>
+    <Placemark><name>USCM - Magnitogorsk</name><Point><coordinates>58.755699,53.393101,0</coordinates></Point></Placemark>
+    <Placemark><name>USRR - Surgut</name><Point><coordinates>73.401802,61.343700,0</coordinates></Point></Placemark>
+    <Placemark><name>UTAA - Ashgabat</name><Point><coordinates>58.361000,37.986801,0</coordinates></Point></Placemark>
+    <Placemark><name>UUDD - Domodedovo</name><Point><coordinates>37.906300,55.408798,0</coordinates></Point></Placemark>
+    <Placemark><name>UUEE - Sheremetyevo</name><Point><coordinates>37.414600,55.972599,0</coordinates></Point></Placemark>
+    <Placemark><name>UUWW - Vnukovo</name><Point><coordinates>37.261501,55.591499,0</coordinates></Point></Placemark>
+    <Placemark><name>UWLW - Ulyanovsk East</name><Point><coordinates>48.802700,54.401001,0</coordinates></Point></Placemark>
+    <Placemark><name>UWOO - Orenburg Central</name><Point><coordinates>55.456699,51.795799,0</coordinates></Point></Placemark>
+    <Placemark><name>VABB - Chhatrapati Shivaji</name><Point><coordinates>72.867897,19.088699,0</coordinates></Point></Placemark>
+    <Placemark><name>VECC - Netaji Subhash Chandra Bose</name><Point><coordinates>88.446701,22.654699,0</coordinates></Point></Placemark>
+    <Placemark><name>VHHH - Chek Lap Kok</name><Point><coordinates>113.915001,22.308901,0</coordinates></Point></Placemark>
+    <Placemark><name>VICG - Chandigarh</name><Point><coordinates>76.788498,30.673500,0</coordinates></Point></Placemark>
+    <Placemark><name>VIDP - Indira Gandhi</name><Point><coordinates>77.103104,28.566500,0</coordinates></Point></Placemark>
+    <Placemark><name>VLLB - Luang Phabang</name><Point><coordinates>102.161003,19.897301,0</coordinates></Point></Placemark>
+    <Placemark><name>VMMC - Macau</name><Point><coordinates>113.592003,22.149599,0</coordinates></Point></Placemark>
+    <Placemark><name>VRMG - Gan</name><Point><coordinates>73.155602,-0.693342,0</coordinates></Point></Placemark>
+    <Placemark><name>VRMM - Malé</name><Point><coordinates>73.529099,4.191830,0</coordinates></Point></Placemark>
+    <Placemark><name>VTBS - Suvarnabhumi</name><Point><coordinates>100.747002,13.681100,0</coordinates></Point></Placemark>
+    <Placemark><name>VTSP - Phuket</name><Point><coordinates>98.316902,8.113200,0</coordinates></Point></Placemark>
+    <Placemark><name>VTSS - Hat Yai</name><Point><coordinates>100.392998,6.933210,0</coordinates></Point></Placemark>
+    <Placemark><name>VYYY - Yangon</name><Point><coordinates>96.133202,16.907301,0</coordinates></Point></Placemark>
+    <Placemark><name>WADD - Ngurah Rai (Bali)</name><Point><coordinates>115.167000,-8.748170,0</coordinates></Point></Placemark>
+    <Placemark><name>WAPP - Pattimura , Ambon</name><Point><coordinates>128.089005,-3.710260,0</coordinates></Point></Placemark>
+    <Placemark><name>WBSB - Brunei</name><Point><coordinates>114.928001,4.944200,0</coordinates></Point></Placemark>
+    <Placemark><name>WIII - Soekarno-Hatta</name><Point><coordinates>106.655998,-6.125570,0</coordinates></Point></Placemark>
+    <Placemark><name>WMKC - Sultan Ismail Petra</name><Point><coordinates>102.292999,6.166850,0</coordinates></Point></Placemark>
+    <Placemark><name>WMKK - Kuala Lumpur</name><Point><coordinates>101.709999,2.745580,0</coordinates></Point></Placemark>
+    <Placemark><name>WMKP - Penang</name><Point><coordinates>100.277000,5.297140,0</coordinates></Point></Placemark>
+    <Placemark><name>WMSA - Sultan Abdul Aziz Shah</name><Point><coordinates>101.549004,3.130580,0</coordinates></Point></Placemark>
+    <Placemark><name>WSSS - Singapore Changi</name><Point><coordinates>103.994003,1.350190,0</coordinates></Point></Placemark>
+    <Placemark><name>YMHB - Hobart</name><Point><coordinates>147.509995,-42.836102,0</coordinates></Point></Placemark>
+    <Placemark><name>YMML - Melbourne</name><Point><coordinates>144.843002,-37.673302,0</coordinates></Point></Placemark>
+    <Placemark><name>YPAD - Adelaide</name><Point><coordinates>138.531006,-34.945000,0</coordinates></Point></Placemark>
+    <Placemark><name>YPPH - Perth</name><Point><coordinates>115.967003,-31.940300,0</coordinates></Point></Placemark>
+    <Placemark><name>YPXM - Christmas Island</name><Point><coordinates>105.690002,-10.450600,0</coordinates></Point></Placemark>
+    <Placemark><name>YSSY - Sydney Kingsford Smith</name><Point><coordinates>151.177002,-33.946098,0</coordinates></Point></Placemark>
+    <Placemark><name>ZBAA - Beijing Capital</name><Point><coordinates>116.584999,40.080101,0</coordinates></Point></Placemark>
+    <Placemark><name>ZBSJ - Shijiazhuang Daguocun</name><Point><coordinates>114.696999,38.280701,0</coordinates></Point></Placemark>
+    <Placemark><name>ZBTJ - Tianjin Binhai</name><Point><coordinates>117.346001,39.124401,0</coordinates></Point></Placemark>
+    <Placemark><name>ZBYN - Taiyuan Wusu</name><Point><coordinates>112.627998,37.746899,0</coordinates></Point></Placemark>
+    <Placemark><name>ZGGG - Guangzhou Baiyun</name><Point><coordinates>113.299004,23.392401,0</coordinates></Point></Placemark>
+    <Placemark><name>ZGKL - Guilin Liangjiang</name><Point><coordinates>110.039001,25.218100,0</coordinates></Point></Placemark>
+    <Placemark><name>ZGSZ - Shenzhen Bao'an</name><Point><coordinates>113.810997,22.639299,0</coordinates></Point></Placemark>
+    <Placemark><name>ZKPY - Pyongyang Sunan</name><Point><coordinates>125.669998,39.224098,0</coordinates></Point></Placemark>
+    <Placemark><name>ZLXY - Xi'an Xianyang</name><Point><coordinates>108.751999,34.447102,0</coordinates></Point></Placemark>
+    <Placemark><name>ZPPP - Kunming Changshui</name><Point><coordinates>102.929167,25.101944,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSCN - Nanchang Changbei</name><Point><coordinates>115.900002,28.865000,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSHC - Hangzhou Xiaoshan</name><Point><coordinates>120.433998,30.229500,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSJN - Yaoqiang</name><Point><coordinates>117.216003,36.857201,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSPD - Shanghai Pudong</name><Point><coordinates>121.805000,31.143400,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSQD - Liuting</name><Point><coordinates>120.374001,36.266102,0</coordinates></Point></Placemark>
+    <Placemark><name>ZSSS - Shanghai Hongqiao</name><Point><coordinates>121.335999,31.197901,0</coordinates></Point></Placemark>
+    <Placemark><name>ZUUU - Chengdu Shuangliu</name><Point><coordinates>103.946999,30.578501,0</coordinates></Point></Placemark>
+    <Placemark><name>ZWWW - Ürümqi Diwopu</name><Point><coordinates>87.474197,43.907101,0</coordinates></Point></Placemark>
+    <Placemark><name>ZYTL - Zhoushuizi</name><Point><coordinates>121.539001,38.965698,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

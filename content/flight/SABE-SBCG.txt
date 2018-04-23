@@ -1,0 +1,31 @@
+TITLE: Flight 85: Jorge Newbery Airpark (SABE) → Campo Grande (SBCG)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0085
+- **Departure**: Jorge Newbery Airpark (SABE)
+- **Arrival**: Campo Grande (SBCG)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

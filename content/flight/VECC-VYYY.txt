@@ -1,0 +1,31 @@
+TITLE: Flight 42: Netaji Subhash Chandra Bose (VECC) → Yangon (VYYY)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0042
+- **Departure**: Netaji Subhash Chandra Bose (VECC)
+- **Arrival**: Yangon (VYYY)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

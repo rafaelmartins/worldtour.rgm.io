@@ -1,0 +1,31 @@
+TITLE: Flight 32: Khartoum (HSSS) → Addis Ababa Bole (HAAB)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0032
+- **Departure**: Khartoum (HSSS)
+- **Arrival**: Addis Ababa Bole (HAAB)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>

@@ -1,0 +1,31 @@
+TITLE: Flight 22: Stockholm-Arlanda (ESSA) → Berlin-Tegel (EDDT)
+DATE:
+-------------------------
+#### Flight details
+
+- **Flight**: MAG0022
+- **Departure**: Stockholm-Arlanda (ESSA)
+- **Arrival**: Berlin-Tegel (EDDT)
+- [**ACARS Log**]()
+
+#### Full flight
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
+
+#### Take-off and landing
+
+<iframe
+    src="https://www.youtube.com/embed/"
+    width="560"
+    height="315"
+    frameborder="0"
+    style="border: 0"
+    allowfullscreen>
+</iframe>
